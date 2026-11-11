@@ -1,0 +1,79 @@
+{
+ "version": 1,
+ "updated": "2026-11-08T00:00:00Z",
+ "sections": [
+  {
+   "id": "cheats",
+   "title": {
+    "en": "Cheats",
+    "pt": "Códigos",
+    "es": "Trucos",
+    "tr": "Hileler",
+    "ru": "Коды",
+    "id": "Cheat"
+   },
+   "items": []
+  },
+  {
+   "id": "money",
+   "title": {
+    "en": "Money",
+    "pt": "Dinheiro",
+    "es": "Dinero",
+    "tr": "Para",
+    "ru": "Деньги",
+    "id": "Uang"
+   },
+   "items": []
+  },
+  {
+   "id": "weapons",
+   "title": {
+    "en": "Weapons",
+    "pt": "Armas",
+    "es": "Armas",
+    "tr": "Silahlar",
+    "ru": "Оружие",
+    "id": "Senjata"
+   },
+   "items": []
+  },
+  {
+   "id": "cars",
+   "title": {
+    "en": "Cars",
+    "pt": "Carros",
+    "es": "Coches",
+    "tr": "Arabalar",
+    "ru": "Машины",
+    "id": "Mobil"
+   },
+   "items": []
+  },
+  {
+   "id": "missions",
+   "title": {
+    "en": "Missions",
+    "pt": "Missões",
+    "es": "Misiones",
+    "tr": "Görevler",
+    "ru": "Миссии",
+    "id": "Misi"
+   },
+   "items": []
+  },
+  {
+   "id": "tips",
+   "title": {
+    "en": "Tips",
+    "pt": "Dicas",
+    "es": "Consejos",
+    "tr": "İpuçları",
+    "ru": "Советы",
+    "id": "Tips"
+   },
+   "items": []
+  }
+ ],
+ "buy": {}
+}
