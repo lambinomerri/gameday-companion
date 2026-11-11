@@ -1,7 +1,750 @@
 {
  "version": 1,
- "updated": "2026-11-08T00:00:00Z",
+ "updated": "2026-11-11T00:00Z",
  "sections": [
+  {
+   "id": "news",
+   "title": {
+    "en": "What we know",
+    "pt": "O que sabemos",
+    "es": "Lo que sabemos",
+    "tr": "Bildiklerimiz",
+    "ru": "Что известно",
+    "id": "Yang kami ketahui"
+   },
+   "items": [
+    {
+     "id": "news-release-date",
+     "title": {
+      "en": "Release date: November 19, 2026",
+      "pt": "Data de lançamento: 19 de novembro de 2026",
+      "es": "Fecha de lanzamiento: 19 de noviembre de 2026",
+      "tr": "Çıkış tarihi: 19 Kasım 2026",
+      "ru": "Дата выхода: 19 ноября 2026 года",
+      "id": "Tanggal rilis: 19 November 2026"
+     },
+     "body": {
+      "en": "Grand Theft Auto VI comes out on Thursday, November 19, 2026. Rockstar shows this date on its official game page, and Take-Two kept it in place in its latest earnings report. The countdown on the home screen of this app counts down to that day in your device's time zone. Exact unlock times can differ by platform and region, so check your console store on the evening before.",
+      "pt": "Grand Theft Auto VI chega na quinta-feira, 19 de novembro de 2026. A Rockstar mostra essa data na página oficial do jogo, e a Take-Two manteve a data no seu último relatório de resultados. A contagem regressiva na tela inicial deste app conta até esse dia no fuso horário do seu dispositivo. Os horários exatos de liberação podem variar conforme a plataforma e a região, então verifique sua loja de console na noite anterior.",
+      "es": "Grand Theft Auto VI sale a la venta el jueves 19 de noviembre de 2026. Rockstar muestra esta fecha en su página oficial del juego, y Take-Two la mantuvo en su último informe de resultados. La cuenta regresiva de la pantalla de inicio de esta app cuenta hasta ese día según la zona horaria de tu dispositivo. Las horas exactas de desbloqueo pueden variar según la plataforma y la región, así que consulta tu tienda de consola la noche anterior.",
+      "tr": "Grand Theft Auto VI, 19 Kasım 2026 Perşembe günü çıkıyor. Rockstar bu tarihi resmi oyun sayfasında gösteriyor ve Take-Two da son kazanç raporunda bu tarihi korudu. Bu uygulamanın ana ekranındaki geri sayım, cihazınızın saat diliminde o güne doğru sayıyor. Kesin erişim saatleri platforma ve bölgeye göre değişebilir, bu yüzden çıkıştan bir önceki akşam konsol mağazanızı kontrol edin.",
+      "ru": "Grand Theft Auto VI выйдет в четверг, 19 ноября 2026 года. Rockstar указывает эту дату на своей официальной странице игры, а Take-Two сохранила её в последнем отчёте о доходах. Обратный отсчёт на главном экране этого приложения ведёт к этому дню по часовому поясу вашего устройства. Точное время открытия может различаться в зависимости от платформы и региона, поэтому проверьте консольный магазин вечером накануне.",
+      "id": "Grand Theft Auto VI rilis pada Kamis, 19 November 2026. Rockstar menampilkan tanggal ini di halaman resmi game-nya, dan Take-Two mempertahankannya dalam laporan pendapatan terbaru. Hitung mundur di layar utama aplikasi ini menghitung mundur ke hari tersebut sesuai zona waktu perangkat Anda. Waktu pembukaan yang tepat bisa berbeda tergantung platform dan wilayah, jadi periksa toko konsol Anda pada malam sebelumnya."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://wccftech.com/gta-6-november-19-date-holds-take-two-beats-earnings-zelnick-pc-port/",
+       "title": "Wccftech — Nov 19 holds, PC not announced"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-delays",
+     "title": {
+      "en": "Two delays before the final date",
+      "pt": "Dois adiamentos antes da data final",
+      "es": "Dos retrasos antes de la fecha definitiva",
+      "tr": "Nihai tarihten önce iki erteleme",
+      "ru": "Две отсрочки до окончательной даты",
+      "id": "Dua kali penundaan sebelum tanggal final"
+     },
+     "body": {
+      "en": "The game was first planned for fall 2025. In May 2025 Rockstar moved it to May 26, 2026. Later Rockstar and Take-Two announced a second move, to November 19, 2026, saying the extra months were needed to finish the game with the expected level of polish. Since then the November date has not changed.",
+      "pt": "O jogo foi planejado originalmente para o outono de 2025. Em maio de 2025, a Rockstar o adiou para 26 de maio de 2026. Depois, a Rockstar e a Take-Two anunciaram um segundo adiamento, para 19 de novembro de 2026, dizendo que os meses extras eram necessários para concluir o jogo com o nível de acabamento esperado. Desde então, a data de novembro não mudou.",
+      "es": "El juego estaba planeado originalmente para otoño de 2025. En mayo de 2025, Rockstar lo trasladó al 26 de mayo de 2026. Más tarde, Rockstar y Take-Two anunciaron un segundo cambio, al 19 de noviembre de 2026, indicando que los meses adicionales eran necesarios para terminar el juego con el nivel de pulido esperado. Desde entonces, la fecha de noviembre no ha cambiado.",
+      "tr": "Oyun ilk olarak 2025 sonbaharı için planlanmıştı. Mayıs 2025'te Rockstar çıkış tarihini 26 Mayıs 2026'ya aldı. Daha sonra Rockstar ve Take-Two, tarihin ikinci kez 19 Kasım 2026'ya ertelendiğini duyurdu ve ek ayların oyunu beklenen cilalama seviyesinde bitirmek için gerektiğini belirtti. O tarihten beri Kasım tarihi değişmedi.",
+      "ru": "Игра изначально планировалась на осень 2025 года. В мае 2025 года Rockstar перенесла её на 26 мая 2026 года. Позже Rockstar и Take-Two объявили о втором переносе, на 19 ноября 2026 года, сообщив, что дополнительные месяцы нужны, чтобы довести игру до ожидаемого уровня проработки. С тех пор ноябрьская дата не менялась.",
+      "id": "Game ini awalnya direncanakan untuk musim gugur 2025. Pada Mei 2025 Rockstar memindahkannya ke 26 Mei 2026. Kemudian Rockstar dan Take-Two mengumumkan pemindahan kedua, ke 19 November 2026, dengan alasan bahwa beberapa bulan tambahan diperlukan untuk menyelesaikan game dengan tingkat kualitas yang diharapkan. Sejak itu tanggal November belum berubah."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://www.gamespot.com/articles/gta-6-delayed-to-november-2026/1100-6536012/",
+       "title": "GameSpot — delayed to November 2026"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-delayed-6-more-months-as-rockstar-commits-to-november-2026-and-says-sorry/",
+       "title": "GamesRadar — delayed to November 2026"
+      },
+      {
+       "url": "https://www.pcgamer.com/games/action/grand-theft-auto-6-is-delayed-to-november-these-extra-months-will-allow-us-to-finish-the-game-with-the-level-of-polish-you-have-come-to-expect-and-deserve/",
+       "title": "PC Gamer — delayed to November 2026"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-platforms",
+     "title": {
+      "en": "Platforms: PS5 and Xbox Series X|S",
+      "pt": "Plataformas: PS5 e Xbox Series X|S",
+      "es": "Plataformas: PS5 y Xbox Series X|S",
+      "tr": "Platformlar: PS5 ve Xbox Series X|S",
+      "ru": "Платформы: PS5 и Xbox Series X|S",
+      "id": "Platform: PS5 dan Xbox Series X|S"
+     },
+     "body": {
+      "en": "At launch the game is coming to PlayStation 5 and Xbox Series X|S. The official page also says it plays best on PlayStation 5. Older consoles such as PS4 and Xbox One are not on the list of platforms, so the game will not run on them.",
+      "pt": "No lançamento, o jogo chega ao PlayStation 5 e ao Xbox Series X|S. A página oficial também diz que o jogo roda melhor no PlayStation 5. Consoles mais antigos, como PS4 e Xbox One, não estão na lista de plataformas, então o jogo não vai rodar neles.",
+      "es": "En el lanzamiento, el juego llega a PlayStation 5 y Xbox Series X|S. La página oficial también indica que funciona mejor en PlayStation 5. Las consolas anteriores, como PS4 y Xbox One, no aparecen en la lista de plataformas, así que el juego no funcionará en ellas.",
+      "tr": "Çıkışta oyun PlayStation 5 ve Xbox Series X|S için yayımlanıyor. Resmi sayfa, oyunun en iyi PlayStation 5'te çalıştığını da belirtiyor. PS4 ve Xbox One gibi eski konsollar platform listesinde yer almıyor, dolayısıyla oyun bu konsollarda çalışmayacak.",
+      "ru": "На старте игра выходит на PlayStation 5 и Xbox Series X|S. На официальной странице также говорится, что игра лучше всего работает на PlayStation 5. Более старые консоли, такие как PS4 и Xbox One, в списке платформ не значатся, поэтому игра на них не запустится.",
+      "id": "Saat peluncuran, game ini hadir untuk PlayStation 5 dan Xbox Series X|S. Halaman resmi juga menyebutkan bahwa game ini paling optimal di PlayStation 5. Konsol lama seperti PS4 dan Xbox One tidak termasuk dalam daftar platform, sehingga game ini tidak akan berjalan di sana."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://www.esrb.org/search/?searchKeyword=grand%20theft%20auto%20vi",
+       "title": "ESRB — Grand Theft Auto VI rating"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-pc",
+     "title": {
+      "en": "PC version: not announced",
+      "pt": "Versão para PC: não anunciada",
+      "es": "Versión para PC: no anunciada",
+      "tr": "PC sürümü: duyurulmadı",
+      "ru": "Версия для PC: не анонсирована",
+      "id": "Versi PC: belum diumumkan"
+     },
+     "body": {
+      "en": "Rockstar has not announced a PC version. Take-Two's chief executive has said in general terms that the company's big games tend to reach more platforms over time, but there is no PC date, store page or system requirements. Earlier Grand Theft Auto games reached PC months or years after the console launch, but that is history, not an announcement.",
+      "pt": "A Rockstar não anunciou uma versão para PC. O CEO da Take-Two disse, em termos gerais, que os grandes jogos da empresa costumam chegar a mais plataformas com o tempo, mas não há data, página na loja nem requisitos de sistema para PC. Jogos anteriores da série Grand Theft Auto chegaram ao PC meses ou anos depois do lançamento no console, mas isso é histórico, não um anúncio.",
+      "es": "Rockstar no ha anunciado una versión para PC. El director ejecutivo de Take-Two ha dicho, en términos generales, que los grandes juegos de la compañía tienden a llegar a más plataformas con el tiempo, pero no hay fecha para PC, página en la tienda ni requisitos del sistema. Las entregas anteriores de Grand Theft Auto llegaron a PC meses o años después del lanzamiento en consola, pero eso es historia, no un anuncio.",
+      "tr": "Rockstar bir PC sürümü duyurmadı. Take-Two'nun genel müdürü, şirketin büyük oyunlarının zamanla daha fazla platforma ulaşma eğiliminde olduğunu genel hatlarıyla söyledi, ancak bir PC tarihi, mağaza sayfası veya sistem gereksinimleri yok. Daha önceki Grand Theft Auto oyunları PC'ye konsol çıkışından aylar veya yıllar sonra ulaştı, ancak bu bir geçmiş bilgisi, bir duyuru değil.",
+      "ru": "Rockstar не анонсировала версию для PC. Исполнительный директор Take-Two в общих чертах говорил, что крупные игры компании со временем, как правило, выходят на большее число платформ, но даты для PC, страницы в магазине и системных требований нет. Предыдущие части Grand Theft Auto появлялись на PC через месяцы или годы после выхода на консолях, но это история, а не анонс.",
+      "id": "Rockstar belum mengumumkan versi PC. CEO Take-Two secara umum pernah mengatakan bahwa game besar perusahaan cenderung hadir di lebih banyak platform seiring waktu, tetapi belum ada tanggal PC, halaman toko, atau spesifikasi sistem. Game Grand Theft Auto sebelumnya mencapai PC beberapa bulan atau tahun setelah peluncuran konsol, tetapi itu adalah sejarah, bukan pengumuman."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://wccftech.com/gta-6-november-19-date-holds-take-two-beats-earnings-zelnick-pc-port/",
+       "title": "Wccftech — Nov 19 holds, PC not announced"
+      },
+      {
+       "url": "https://gamesradar.com/games/grand-theft-auto/gta-6-publisher-says-it-isnt-complicated-for-us-to-support-pc-and-great-cool-so-wheres-that-gta-6-pc-announcement",
+       "title": "GamesRadar — no PC announcement"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-setting",
+     "title": {
+      "en": "Setting: Vice City in the state of Leonida",
+      "pt": "Cenário: Vice City no estado de Leonida",
+      "es": "Escenario: Vice City en el estado de Leonida",
+      "tr": "Ortam: Leonida eyaletinde Vice City",
+      "ru": "Место действия: Vice City в штате Leonida",
+      "id": "Latar: Vice City di negara bagian Leonida"
+     },
+     "body": {
+      "en": "The story takes place in Vice City and the surrounding state of Leonida. Rockstar's page describes the location as Vice City, USA, in the state of Leonida. Everything else about the map, such as its exact size, has not been officially stated.",
+      "pt": "A história se passa em Vice City e no estado de Leonida, ao redor. A página da Rockstar descreve o local como Vice City, EUA, no estado de Leonida. Todo o resto sobre o mapa, como o tamanho exato, não foi divulgado oficialmente.",
+      "es": "La historia transcurre en Vice City y en el estado de Leonida que lo rodea. La página de Rockstar describe la ubicación como Vice City, EE. UU., en el estado de Leonida. Todo lo demás sobre el mapa, como su tamaño exacto, no se ha confirmado oficialmente.",
+      "tr": "Hikâye Vice City'de ve çevresindeki Leonida eyaletinde geçiyor. Rockstar'ın sayfası konumu Leonida eyaletinde, Vice City, ABD olarak tanımlıyor. Haritanın kesin büyüklüğü gibi diğer ayrıntılar resmi olarak açıklanmadı.",
+      "ru": "Сюжет разворачивается в Vice City и окружающем штате Leonida. На странице Rockstar локация описана как Vice City, USA, штат Leonida. Всё остальное о карте, например её точный размер, официально не сообщалось.",
+      "id": "Cerita berlangsung di Vice City dan negara bagian Leonida di sekitarnya. Halaman Rockstar menggambarkan lokasi sebagai Vice City, USA, di negara bagian Leonida. Hal lain tentang peta, seperti ukuran pastinya, belum diumumkan secara resmi."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-delayed-6-more-months-as-rockstar-commits-to-november-2026-and-says-sorry/",
+       "title": "GamesRadar — delayed to November 2026"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-heroes",
+     "title": {
+      "en": "Main characters: Jason and Lucia",
+      "pt": "Personagens principais: Jason e Lucia",
+      "es": "Personajes principales: Jason y Lucia",
+      "tr": "Ana karakterler: Jason ve Lucia",
+      "ru": "Главные герои: Jason и Lucia",
+      "id": "Karakter utama: Jason dan Lucia"
+     },
+     "body": {
+      "en": "The game has two lead characters, Jason and Lucia. Rockstar's official page and trailers present them together as the two people at the centre of the story. More details about the plot will become clear only once the game is out, and this app will not repeat leaks or rumours about it.",
+      "pt": "O jogo tem dois protagonistas, Jason e Lucia. A página oficial da Rockstar e os trailers os apresentam juntos, como as duas pessoas no centro da história. Mais detalhes sobre o enredo só ficarão claros quando o jogo for lançado, e este app não vai repetir vazamentos ou rumores sobre ele.",
+      "es": "El juego tiene dos protagonistas, Jason y Lucia. La página oficial de Rockstar y los tráileres los presentan juntos como las dos personas en el centro de la historia. Los detalles de la trama se aclararán solo cuando el juego salga, y esta app no repetirá filtraciones ni rumores al respecto.",
+      "tr": "Oyunun iki ana karakteri var: Jason ve Lucia. Rockstar'ın resmi sayfası ve fragmanları ikisini hikâyenin merkezindeki iki kişi olarak birlikte sunuyor. Olay örgüsüyle ilgili daha fazla ayrıntı yalnızca oyun çıktığında netleşecek ve bu uygulama sızıntıları ya da söylentileri tekrarlamayacak.",
+      "ru": "В игре два главных героя, Jason и Lucia. На официальной странице Rockstar и в трейлерах они представлены вместе как два человека, оказавшиеся в центре истории. Подробности сюжета станут понятны только после выхода игры, а это приложение не будет пересказывать слухи и утечки о ней.",
+      "id": "Game ini memiliki dua karakter utama, Jason dan Lucia. Halaman resmi Rockstar dan trailer menampilkan keduanya bersama sebagai dua orang di pusat cerita. Detail lebih lanjut tentang alur cerita baru akan jelas setelah game dirilis, dan aplikasi ini tidak akan mengulang bocoran atau rumor tentangnya."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://www.pcgamer.com/games/action/grand-theft-auto-6-is-delayed-to-november-these-extra-months-will-allow-us-to-finish-the-game-with-the-level-of-polish-you-have-come-to-expect-and-deserve/",
+       "title": "PC Gamer — delayed to November 2026"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-trailers",
+     "title": {
+      "en": "Official trailers and videos",
+      "pt": "Trailers e vídeos oficiais",
+      "es": "Tráileres y vídeos oficiales",
+      "tr": "Resmi fragmanlar ve videolar",
+      "ru": "Официальные трейлеры и видео",
+      "id": "Trailer dan video resmi"
+     },
+     "body": {
+      "en": "Rockstar's official page lists four videos: Trailer 1, Trailer 2, An Extended Look and the Launch Trailer. All of them can be watched on Rockstar's own site and channels. No video called Trailer 3 is listed on the official page.",
+      "pt": "A página oficial da Rockstar lista quatro vídeos: Trailer 1, Trailer 2, An Extended Look e o Trailer de Lançamento. Todos podem ser assistidos no site e nos canais da própria Rockstar. Nenhum vídeo chamado Trailer 3 aparece na página oficial.",
+      "es": "La página oficial de Rockstar enumera cuatro vídeos: Trailer 1, Trailer 2, An Extended Look y Launch Trailer. Todos se pueden ver en el sitio y los canales oficiales de Rockstar. No aparece en la página oficial ningún vídeo llamado Trailer 3.",
+      "tr": "Rockstar'ın resmi sayfasında dört video listeleniyor: Trailer 1, Trailer 2, An Extended Look ve Launch Trailer. Hepsi Rockstar'ın kendi sitesi ve kanallarında izlenebilir. Resmi sayfada Trailer 3 adlı bir video listelenmiyor.",
+      "ru": "На официальной странице Rockstar перечислены четыре видео: Trailer 1, Trailer 2, An Extended Look и Launch Trailer. Все они доступны на официальном сайте и каналах Rockstar. Видео под названием Trailer 3 на официальной странице не указано.",
+      "id": "Halaman resmi Rockstar mencantumkan empat video: Trailer 1, Trailer 2, An Extended Look, dan Launch Trailer. Semuanya bisa ditonton di situs dan kanal resmi Rockstar. Tidak ada video berjudul Trailer 3 yang tercantum di halaman resmi."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-delayed-6-more-months-as-rockstar-commits-to-november-2026-and-says-sorry/",
+       "title": "GamesRadar — delayed to November 2026"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-editions",
+     "title": {
+      "en": "Editions and prices",
+      "pt": "Edições e preços",
+      "es": "Ediciones y precios",
+      "tr": "Sürümler ve fiyatlar",
+      "ru": "Издания и цены",
+      "id": "Edisi dan harga"
+     },
+     "body": {
+      "en": "Two editions were announced: Standard and Ultimate. Major outlets report the Standard Edition at $79.99 and the Ultimate Edition at $99.99 in the US. Prices in other countries depend on the store and currency. Pre-orders opened in June 2026. Rockstar's page describes the Ultimate Edition as an exclusive collection of items.",
+      "pt": "Foram anunciadas duas edições: Standard e Ultimate. Grandes veículos de imprensa informam que a Edição Standard custa US$ 79,99 e a Ultimate Edition custa US$ 99,99 nos EUA. Os preços em outros países dependem da loja e da moeda. As pré-vendas foram abertas em junho de 2026. A página da Rockstar descreve a Ultimate Edition como uma coleção exclusiva de itens.",
+      "es": "Se anunciaron dos ediciones: Standard Edition y Ultimate Edition. Los principales medios informan que en EE. UU. la Standard Edition cuesta $79.99 y la Ultimate Edition $99.99. Los precios en otros países dependen de la tienda y de la moneda. Las reservas anticipadas se abrieron en junio de 2026. La página de Rockstar describe la Ultimate Edition como una colección exclusiva de artículos.",
+      "tr": "İki sürüm duyuruldu: Standard ve Ultimate. Büyük haber siteleri, ABD'de Standard Edition'ın 79,99 $, Ultimate Edition'ın 99,99 $ olduğunu bildiriyor. Diğer ülkelerdeki fiyatlar mağazaya ve para birimine bağlı. Ön siparişler Haziran 2026'da açıldı. Rockstar'ın sayfası Ultimate Edition'ı özel eşyalardan oluşan bir koleksiyon olarak tanımlıyor.",
+      "ru": "Анонсированы два издания: Standard и Ultimate. Крупные издания сообщают, что в США Standard Edition стоит $79.99, а Ultimate Edition — $99.99. Цены в других странах зависят от магазина и валюты. Предзаказы открылись в июне 2026 года. На странице Rockstar Ultimate Edition описано как эксклюзивная коллекция предметов.",
+      "id": "Dua edisi telah diumumkan: Standard dan Ultimate. Media besar melaporkan Standard Edition seharga $79.99 dan Ultimate Edition seharga $99.99 di AS. Harga di negara lain bergantung pada toko dan mata uang. Pra-pesan dibuka pada Juni 2026. Halaman Rockstar menggambarkan Ultimate Edition sebagai koleksi item eksklusif."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://engadget.com/2200483/rockstar-reveals-gta-6-pricing-launch/",
+       "title": "Engadget — Rockstar reveals GTA 6 pricing"
+      },
+      {
+       "url": "https://techradar.com/gaming/gta-6-pre-orders-go-live-at-midnight-local-time-as-rockstar-unveils-the-ultimate-edition-that-amplifies-the-experience-with-exclusive-items",
+       "title": "TechRadar — pre-orders and Ultimate Edition"
+      },
+      {
+       "url": "https://www.dexerto.com/gta/gta-6-price-ultimate-edition-pre-orders-live-3378744/",
+       "title": "Dexerto — price, Ultimate Edition"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-bonus",
+     "title": {
+      "en": "Pre-order bonus: Vintage Vice City Pack",
+      "pt": "Bônus de pré-venda: Vintage Vice City Pack",
+      "es": "Bonificación por reserva anticipada: Vintage Vice City Pack",
+      "tr": "Ön sipariş bonusu: Vintage Vice City Pack",
+      "ru": "Бонус за предзаказ: Vintage Vice City Pack",
+      "id": "Bonus pra-pesan: Vintage Vice City Pack"
+     },
+     "body": {
+      "en": "Pre-orders include the Vintage Vice City Pack. Rockstar's official page names this bonus for pre-orders. According to reports, digital pre-orders also come with a free month of GTA+, Rockstar's own membership. For the full and current list of what the pack contains, check the store page before you buy.",
+      "pt": "As pré-vendas incluem o Vintage Vice City Pack. A página oficial da Rockstar menciona esse bônus para pré-vendas. Segundo reportagens, as pré-vendas digitais também vêm com um mês grátis do GTA+, a assinatura da própria Rockstar. Para a lista completa e atualizada do que o pacote contém, consulte a página da loja antes de comprar.",
+      "es": "Las reservas anticipadas incluyen el Vintage Vice City Pack. La página oficial de Rockstar menciona esta bonificación para las reservas anticipadas. Según los informes, las reservas digitales también incluyen un mes gratis de GTA+, la membresía propia de Rockstar. Para la lista completa y actualizada del contenido del pack, consulta la página de la tienda antes de comprar.",
+      "tr": "Ön siparişler Vintage Vice City Pack'i içeriyor. Rockstar'ın resmi sayfası, ön siparişler için bu bonusu belirtiyor. Haberlere göre dijital ön siparişlerle birlikte Rockstar'ın kendi üyeliği olan GTA+'ın bir aylık ücretsiz kullanımı da geliyor. Paketin içeriğinin tam ve güncel listesi için satın almadan önce mağaza sayfasını kontrol edin.",
+      "ru": "При предзаказе входит Vintage Vice City Pack. Официальная страница Rockstar называет этот бонус для предзаказов. По сообщениям, цифровые предзаказы также включают бесплатный месяц GTA+, собственной подписки Rockstar. Полный и актуальный список содержимого пакета проверьте на странице в магазине перед покупкой.",
+      "id": "Pra-pesan menyertakan Vintage Vice City Pack. Halaman resmi Rockstar menyebutkan bonus ini untuk pra-pesan. Menurut laporan, pra-pesan digital juga mendapat satu bulan gratis GTA+, keanggotaan resmi Rockstar. Untuk daftar lengkap dan terbaru isi paket, periksa halaman toko sebelum membeli."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://techradar.com/gaming/gta-6-pre-orders-go-live-at-midnight-local-time-as-rockstar-unveils-the-ultimate-edition-that-amplifies-the-experience-with-exclusive-items",
+       "title": "TechRadar — pre-orders and Ultimate Edition"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-boxed",
+     "title": {
+      "en": "Boxed copies contain a download code",
+      "pt": "Cópias físicas contêm um código de download",
+      "es": "Las copias físicas incluyen un código de descarga",
+      "tr": "Kutulu kopyalar bir indirme kodu içerir",
+      "ru": "Коробочные издания содержат код загрузки",
+      "id": "Salinan fisik berisi kode unduh"
+     },
+     "body": {
+      "en": "Reports on the pricing announcement say the boxed retail version does not contain a game disc. Instead, the box has a code for downloading the game. In practice this means a boxed copy still needs the full download and enough free storage, just like the digital version.",
+      "pt": "Reportagens sobre o anúncio de preços dizem que a versão física de varejo não contém disco de jogo. Em vez disso, a caixa tem um código para baixar o jogo. Na prática, isso significa que uma cópia física ainda precisa do download completo e de espaço livre suficiente, assim como a versão digital.",
+      "es": "Los informes sobre el anuncio de precios indican que la versión física en tienda no incluye disco de juego. En su lugar, la caja contiene un código para descargar el juego. En la práctica, una copia física sigue necesitando la descarga completa y suficiente espacio libre de almacenamiento, igual que la versión digital.",
+      "tr": "Fiyat duyurusuna ilişkin haberler, kutulu perakende sürümün oyun diski içermediğini, bunun yerine kutuda oyunu indirmek için bir kod bulunduğunu belirtiyor. Pratikte bu, kutulu kopyanın da dijital sürüm gibi tam indirmeye ve yeterli boş depolama alanına ihtiyaç duyacağı anlamına geliyor.",
+      "ru": "Сообщения об объявлении цен говорят, что коробочная розничная версия не содержит игрового диска. Вместо этого в коробке находится код для загрузки игры. На практике это означает, что коробочной копии всё равно нужна полная загрузка и достаточно свободного места, как и цифровой версии.",
+      "id": "Laporan tentang pengumuman harga menyebutkan bahwa versi retail fisik tidak berisi disk game. Sebagai gantinya, kotak berisi kode untuk mengunduh game. Dalam praktiknya, salinan fisik tetap memerlukan unduhan penuh dan ruang penyimpanan kosong yang cukup, sama seperti versi digital."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.tweaktown.com/news/112341/rockstar-confirms-gta-6s-price-no-physical-disc-version/index.html",
+       "title": "TweakTown — price, no disc in boxed copies"
+      },
+      {
+       "url": "https://techradar.com/gaming/gta-6-pre-orders-go-live-at-midnight-local-time-as-rockstar-unveils-the-ultimate-edition-that-amplifies-the-experience-with-exclusive-items",
+       "title": "TechRadar — pre-orders and Ultimate Edition"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-preload",
+     "title": {
+      "en": "Pre-load started November 10",
+      "pt": "Pré-download começou em 10 de novembro",
+      "es": "La precarga comenzó el 10 de noviembre",
+      "tr": "Ön yükleme 10 Kasım'da başladı",
+      "ru": "Предзагрузка стартовала 10 ноября",
+      "id": "Pra-unduh dimulai 10 November"
+     },
+     "body": {
+      "en": "Rockstar announced on November 3, 2026 that pre-loading for digital pre-orders begins on November 10, and on November 10 it posted that pre-loading is now open. Reports on the announcement say the download is up to 212 GB, depending on the console. Some earlier reports named November 12; the official date is November 10.",
+      "pt": "A Rockstar anunciou em 3 de novembro de 2026 que o pré-download para pré-vendas digitais começa em 10 de novembro, e em 10 de novembro publicou que o pré-download já está aberto. Reportagens sobre o anúncio dizem que o download chega a 212 GB, dependendo do console. Algumas reportagens anteriores citaram 12 de novembro; a data oficial é 10 de novembro.",
+      "es": "Rockstar anunció el 3 de noviembre de 2026 que la precarga para las reservas anticipadas digitales empezaría el 10 de noviembre, y el 10 de noviembre publicó que la precarga ya estaba disponible. Los informes sobre el anuncio indican que la descarga ocupa hasta 212 GB, según la consola. Algunos informes anteriores mencionaron el 12 de noviembre; la fecha oficial es el 10 de noviembre.",
+      "tr": "Rockstar, 3 Kasım 2026'da dijital ön siparişler için ön yüklemenin 10 Kasım'da başlayacağını duyurdu ve 10 Kasım'da ön yüklemenin artık açık olduğunu paylaştı. Duyuruya ilişkin haberler, indirmenin konsola bağlı olarak 212 GB'a kadar çıktığını belirtiyor. Daha önceki bazı haberler 12 Kasım'ı belirtmişti; resmi tarih 10 Kasım.",
+      "ru": "Rockstar объявила 3 ноября 2026 года, что предзагрузка для цифровых предзаказов начнётся 10 ноября, а 10 ноября опубликовала сообщение, что предзагрузка уже открыта. По сообщениям об анонсе, загрузка занимает до 212 GB в зависимости от консоли. В некоторых более ранних сообщениях называлось 12 ноября, но официальная дата: 10 ноября.",
+      "id": "Rockstar mengumumkan pada 3 November 2026 bahwa pra-unduh untuk pra-pesan digital dimulai pada 10 November, dan pada 10 November mereka memposting bahwa pra-unduh kini dibuka. Laporan tentang pengumuman tersebut menyebutkan unduhan mencapai 212 GB, tergantung konsol. Beberapa laporan sebelumnya menyebut 12 November; tanggal resminya adalah 10 November."
+     },
+     "platform": "all",
+     "confidence": 4,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712",
+       "title": "Rockstar Newswire — Pre-Load Begins on November 10 (2026-11-03)"
+      },
+      {
+       "url": "https://www.rockstargames.com/newswire/article/89834o94713o21",
+       "title": "Rockstar Newswire — Pre-Load Grand Theft Auto VI Now (2026-11-10)"
+      },
+      {
+       "url": "https://techradar.com/gaming/gta-6-digital-pre-loads-for-ps5-and-xbox-will-begin-9-days-early-and-require-a-whopping-212gb-of-free-space",
+       "title": "TechRadar — pre-loads, 212GB"
+      },
+      {
+       "url": "https://gamesradar.com/games/grand-theft-auto/rockstar-confirms-gta-6-is-212gb-pre-loading-opens-earlier-than-previously-announced-for-digital-orders",
+       "title": "GamesRadar — 212GB, pre-load earlier"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "news-rating",
+     "title": {
+      "en": "Age rating: ESRB Mature 17+",
+      "pt": "Classificação etária: ESRB Mature 17+",
+      "es": "Clasificación por edad: ESRB Mature 17+",
+      "tr": "Yaş derecelendirmesi: ESRB Mature 17+",
+      "ru": "Возрастной рейтинг: ESRB Mature 17+",
+      "id": "Rating usia: ESRB Mature 17+"
+     },
+     "body": {
+      "en": "The ESRB rated the game M for Mature 17+. The listed reasons are blood and gore, intense violence, mature humour, nudity, strong language, strong sexual content, and use of drugs and alcohol. The game also has in-game purchases. The same rating is shown on Rockstar's official page.",
+      "pt": "A ESRB classificou o jogo como M para Mature 17+. Os motivos listados são sangue e violência gráfica, violência intensa, humor adulto, nudez, linguagem forte, conteúdo sexual intenso e uso de drogas e álcool. O jogo também tem compras no jogo. A mesma classificação aparece na página oficial da Rockstar.",
+      "es": "La ESRB clasificó el juego como M, Mature 17+. Los motivos indicados son sangre y violencia gráfica, violencia intensa, humor adulto, desnudez, lenguaje fuerte, contenido sexual explícito y consumo de drogas y alcohol. El juego también incluye compras dentro del juego. La misma clasificación aparece en la página oficial de Rockstar.",
+      "tr": "ESRB oyuna M, yani Mature 17+ derecesi verdi. Gösterilen nedenler: kan ve vahşet, yoğun şiddet, olgun mizah, çıplaklık, sert küfür, güçlü cinsel içerik ve uyuşturucu ile alkol kullanımı. Oyunda ayrıca oyun içi satın almalar da var. Aynı derecelendirme Rockstar'ın resmi sayfasında da gösteriliyor.",
+      "ru": "ESRB присвоил игре рейтинг M, Mature 17+. Указанные причины: кровь и жестокость, интенсивное насилие, взрослый юмор, обнажённая натура, нецензурная лексика, откровенный сексуальный контент и употребление наркотиков и алкоголя. В игре также есть покупки внутри игры. Тот же рейтинг указан на официальной странице Rockstar.",
+      "id": "ESRB memberi game ini rating M untuk Mature 17+. Alasan yang tercantum: darah dan kekerasan berlebihan, kekerasan intens, humor dewasa, ketelanjangan, bahasa kasar, konten seksual yang kuat, serta penggunaan narkoba dan alkohol. Game ini juga memiliki pembelian dalam game. Rating yang sama ditampilkan di halaman resmi Rockstar."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.esrb.org/search/?searchKeyword=grand%20theft%20auto%20vi",
+       "title": "ESRB — Grand Theft Auto VI rating"
+      },
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    }
+   ]
+  },
+  {
+   "id": "faq",
+   "title": {
+    "en": "FAQ",
+    "pt": "Perguntas frequentes",
+    "es": "Preguntas frecuentes",
+    "tr": "SSS",
+    "ru": "Часто задаваемые вопросы",
+    "id": "FAQ"
+   },
+   "items": [
+    {
+     "id": "faq-faq-pc",
+     "title": {
+      "en": "Will GTA 6 be on PC?",
+      "pt": "O GTA 6 vai sair para PC?",
+      "es": "¿GTA 6 llegará a PC?",
+      "tr": "GTA 6 PC'ye gelecek mi?",
+      "ru": "Будет ли GTA 6 на PC?",
+      "id": "Apakah GTA 6 akan hadir di PC?"
+     },
+     "body": {
+      "en": "Not at launch. Rockstar has announced only PlayStation 5 and Xbox Series X|S. A PC version has not been announced, and there is no date for one. If Rockstar announces it, this answer will be updated.",
+      "pt": "Não no lançamento. A Rockstar anunciou apenas PlayStation 5 e Xbox Series X|S. Uma versão para PC não foi anunciada e não há data para ela. Se a Rockstar anunciar, esta resposta será atualizada.",
+      "es": "No en el lanzamiento. Rockstar solo ha anunciado PlayStation 5 y Xbox Series X|S. No se ha anunciado una versión para PC ni hay fecha para ella. Si Rockstar la anuncia, esta respuesta se actualizará.",
+      "tr": "Çıkışta hayır. Rockstar yalnızca PlayStation 5 ve Xbox Series X|S platformlarını duyurdu. Bir PC sürümü duyurulmadı ve bunun için bir tarih yok. Rockstar bir PC sürümü duyurursa bu yanıt güncellenecek.",
+      "ru": "Не на старте. Rockstar анонсировала только PlayStation 5 и Xbox Series X|S. Версия для PC не анонсирована, даты для неё нет. Если Rockstar объявит её, этот ответ будет обновлён.",
+      "id": "Tidak saat peluncuran. Rockstar hanya mengumumkan PlayStation 5 dan Xbox Series X|S. Versi PC belum diumumkan, dan belum ada tanggalnya. Jika Rockstar mengumumkannya, jawaban ini akan diperbarui."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://wccftech.com/gta-6-november-19-date-holds-take-two-beats-earnings-zelnick-pc-port/",
+       "title": "Wccftech — Nov 19 holds, PC not announced"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "faq-faq-old",
+     "title": {
+      "en": "Will it run on PS4 or Xbox One?",
+      "pt": "Vai rodar no PS4 ou no Xbox One?",
+      "es": "¿Funcionará en PS4 o Xbox One?",
+      "tr": "PS4 veya Xbox One'da çalışacak mı?",
+      "ru": "Будет ли она работать на PS4 или Xbox One?",
+      "id": "Apakah bisa berjalan di PS4 atau Xbox One?"
+     },
+     "body": {
+      "en": "No. The official platforms are PlayStation 5 and Xbox Series X|S only. PS4 and Xbox One are not supported, and Rockstar has not announced any version for them.",
+      "pt": "Não. As plataformas oficiais são somente PlayStation 5 e Xbox Series X|S. PS4 e Xbox One não são compatíveis, e a Rockstar não anunciou nenhuma versão para eles.",
+      "es": "No. Las únicas plataformas oficiales son PlayStation 5 y Xbox Series X|S. PS4 y Xbox One no son compatibles, y Rockstar no ha anunciado ninguna versión para ellas.",
+      "tr": "Hayır. Resmi platformlar yalnızca PlayStation 5 ve Xbox Series X|S. PS4 ve Xbox One desteklenmiyor ve Rockstar bunlar için bir sürüm duyurmadı.",
+      "ru": "Нет. Официальные платформы: только PlayStation 5 и Xbox Series X|S. PS4 и Xbox One не поддерживаются, и Rockstar не анонсировала версии для них.",
+      "id": "Tidak. Platform resmi hanya PlayStation 5 dan Xbox Series X|S. PS4 dan Xbox One tidak didukung, dan Rockstar belum mengumumkan versi untuk keduanya."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://www.esrb.org/search/?searchKeyword=grand%20theft%20auto%20vi",
+       "title": "ESRB — Grand Theft Auto VI rating"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "faq-faq-cheats",
+     "title": {
+      "en": "Does GTA 6 have cheat codes?",
+      "pt": "O GTA 6 tem códigos de trapaça?",
+      "es": "¿GTA 6 tiene códigos de trucos?",
+      "tr": "GTA 6'da hile kodları var mı?",
+      "ru": "Есть ли в GTA 6 чит-коды?",
+      "id": "Apakah GTA 6 punya kode curang?"
+     },
+     "body": {
+      "en": "Rockstar has not announced or confirmed any cheat codes for GTA 6. Lists of GTA 6 codes that you may see online before release are not confirmed, and many of them are copied from older games. This app will add codes only after they are confirmed in the released game by at least two independent sources.",
+      "pt": "A Rockstar não anunciou nem confirmou nenhum código de trapaça para o GTA 6. As listas de códigos do GTA 6 que você pode encontrar na internet antes do lançamento não são confirmadas, e muitas delas são copiadas de jogos mais antigos. Este app só vai adicionar códigos depois que forem confirmados no jogo lançado por pelo menos duas fontes independentes.",
+      "es": "Rockstar no ha anunciado ni confirmado ningún código de trucos para GTA 6. Las listas de códigos de GTA 6 que puedes encontrar en internet antes del lanzamiento no están confirmadas, y muchas se copian de juegos anteriores. Esta app añadirá códigos solo cuando al menos dos fuentes independientes los confirmen en el juego lanzado.",
+      "tr": "Rockstar, GTA 6 için herhangi bir hile kodu duyurmadı veya doğrulamadı. Çıkıştan önce internette görebileceğiniz GTA 6 kodu listeleri doğrulanmış değil ve birçoğu eski oyunlardan kopyalanmış. Bu uygulama, kodlar yayımlanmış oyunda en az iki bağımsız kaynak tarafından doğrulandıktan sonra kodları ekleyecek.",
+      "ru": "Rockstar не анонсировала и не подтвердила никаких чит-кодов для GTA 6. Списки кодов для GTA 6, которые можно встретить в интернете до выхода, не подтверждены, и многие из них скопированы из старых игр. Это приложение добавит коды только после того, как их подтвердят в выпущенной игре как минимум два независимых источника.",
+      "id": "Rockstar belum mengumumkan atau mengonfirmasi kode curang apa pun untuk GTA 6. Daftar kode GTA 6 yang mungkin Anda temukan online sebelum rilis belum terkonfirmasi, dan banyak di antaranya disalin dari game lama. Aplikasi ini hanya akan menambahkan kode setelah dikonfirmasi di game yang sudah dirilis oleh setidaknya dua sumber independen."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://gamesradar.com/games/grand-theft-auto/gta-6-publisher-says-it-isnt-complicated-for-us-to-support-pc-and-great-cool-so-wheres-that-gta-6-pc-announcement",
+       "title": "GamesRadar — no PC announcement"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "faq-faq-sub",
+     "title": {
+      "en": "Do I need PS Plus or Game Pass for the story?",
+      "pt": "Preciso de PS Plus ou Game Pass para o modo história?",
+      "es": "¿Necesito PS Plus o Game Pass para la historia?",
+      "tr": "Hikâye için PS Plus veya Game Pass gerekiyor mu?",
+      "ru": "Нужны ли PS Plus или Game Pass для сюжета?",
+      "id": "Apakah saya perlu PS Plus atau Game Pass untuk mode cerita?"
+     },
+     "body": {
+      "en": "Rockstar has not announced any subscription requirement for the story mode. The announced cost is the price of the game itself. GTA+ is Rockstar's own optional membership and is not the same as PS Plus or Xbox Game Pass. Online play on consoles usually needs a platform subscription, but Rockstar has not described the online part of GTA 6 yet.",
+      "pt": "A Rockstar não anunciou nenhum requisito de assinatura para o modo história. O custo anunciado é o preço do próprio jogo. O GTA+ é a assinatura opcional da própria Rockstar e não é o mesmo que PS Plus ou Xbox Game Pass. O jogo online em consoles normalmente exige uma assinatura da plataforma, mas a Rockstar ainda não descreveu a parte online do GTA 6.",
+      "es": "Rockstar no ha anunciado ningún requisito de suscripción para el modo historia. El coste anunciado es el precio del juego en sí. GTA+ es la membresía opcional de Rockstar y no es lo mismo que PS Plus ni Xbox Game Pass. El juego en línea en consolas suele requerir una suscripción de la plataforma, pero Rockstar aún no ha descrito la parte en línea de GTA 6.",
+      "tr": "Rockstar, hikâye modu için herhangi bir abonelik gereksinimi duyurmadı. Duyurulan maliyet, oyunun kendi fiyatıdır. GTA+, Rockstar'ın kendi isteğe bağlı üyeliğidir ve PS Plus veya Xbox Game Pass ile aynı değildir. Konsollarda çevrimiçi oyun genellikle bir platform aboneliği gerektirir, ancak Rockstar GTA 6'nın çevrimiçi kısmını henüz tanımlamadı.",
+      "ru": "Rockstar не объявляла никаких требований подписки для сюжетного режима. Заявленная стоимость — это цена самой игры. GTA+ — это необязательная подписка Rockstar, она не равна PS Plus или Xbox Game Pass. Для онлайн-игры на консолях обычно нужна подписка платформы, но Rockstar пока не описала онлайн-часть GTA 6.",
+      "id": "Rockstar belum mengumumkan kewajiban langganan untuk mode cerita. Biaya yang diumumkan adalah harga game itu sendiri. GTA+ adalah keanggotaan opsional dari Rockstar dan bukan sama dengan PS Plus atau Xbox Game Pass. Bermain online di konsol biasanya memerlukan langganan platform, tetapi Rockstar belum menjelaskan bagian online GTA 6."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://engadget.com/2200483/rockstar-reveals-gta-6-pricing-launch/",
+       "title": "Engadget — Rockstar reveals GTA 6 pricing"
+      },
+      {
+       "url": "https://techradar.com/gaming/gta-6-pre-orders-go-live-at-midnight-local-time-as-rockstar-unveils-the-ultimate-edition-that-amplifies-the-experience-with-exclusive-items",
+       "title": "TechRadar — pre-orders and Ultimate Edition"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "faq-faq-price",
+     "title": {
+      "en": "How much does it cost?",
+      "pt": "Quanto custa?",
+      "es": "¿Cuánto cuesta?",
+      "tr": "Ne kadar tutuyor?",
+      "ru": "Сколько это стоит?",
+      "id": "Berapa harganya?"
+     },
+     "body": {
+      "en": "In the US the Standard Edition is reported at $79.99 and the Ultimate Edition at $99.99. Prices in Brazil, Turkey, Indonesia and other countries are set by local stores and can differ. Check PlayStation Store or Microsoft Store in your region for the exact price.",
+      "pt": "Nos EUA, a Edição Standard é informada por US$ 79,99 e a Ultimate Edition por US$ 99,99. Os preços no Brasil, na Turquia, na Indonésia e em outros países são definidos pelas lojas locais e podem ser diferentes. Verifique a PlayStation Store ou a Microsoft Store na sua região para ver o preço exato.",
+      "es": "En EE. UU., la Standard Edition se informa a $79.99 y la Ultimate Edition a $99.99. Los precios en Brasil, Turquía, Indonesia y otros países los fijan las tiendas locales y pueden ser distintos. Consulta PlayStation Store o Microsoft Store en tu región para conocer el precio exacto.",
+      "tr": "ABD'de Standard Edition 79,99 $, Ultimate Edition 99,99 $ olarak bildiriliyor. Brezilya, Türkiye, Endonezya ve diğer ülkelerdeki fiyatlar yerel mağazalar tarafından belirleniyor ve farklı olabilir. Bölgenizdeki kesin fiyat için PlayStation Store veya Microsoft Store'u kontrol edin.",
+      "ru": "В США Standard Edition, по сообщениям, стоит $79.99, а Ultimate Edition — $99.99. Цены в Бразилии, Турции, Индонезии и других странах устанавливают местные магазины, и они могут отличаться. Точную цену проверьте в PlayStation Store или Microsoft Store в вашем регионе.",
+      "id": "Di AS, Standard Edition dilaporkan seharga $79.99 dan Ultimate Edition seharga $99.99. Harga di Brasil, Turki, Indonesia, dan negara lain ditentukan oleh toko setempat dan bisa berbeda. Periksa PlayStation Store atau Microsoft Store di wilayah Anda untuk harga pastinya."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://engadget.com/2200483/rockstar-reveals-gta-6-pricing-launch/",
+       "title": "Engadget — Rockstar reveals GTA 6 pricing"
+      },
+      {
+       "url": "https://www.dexerto.com/gta/gta-6-price-ultimate-edition-pre-orders-live-3378744/",
+       "title": "Dexerto — price, Ultimate Edition"
+      },
+      {
+       "url": "https://www.tweaktown.com/news/112341/rockstar-confirms-gta-6s-price-no-physical-disc-version/index.html",
+       "title": "TweakTown — price, no disc in boxed copies"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "faq-faq-preload",
+     "title": {
+      "en": "When can I pre-load?",
+      "pt": "Quando posso fazer o pré-download?",
+      "es": "¿Cuándo puedo hacer la precarga?",
+      "tr": "Ne zaman ön yükleme yapabilirim?",
+      "ru": "Когда можно сделать предзагрузку?",
+      "id": "Kapan saya bisa pra-unduh?"
+     },
+     "body": {
+      "en": "Rockstar says pre-loading for digital pre-orders started on November 10, 2026. You need a digital pre-order on PS5 or Xbox Series X|S. Boxed copies contain a download code, so the download can start only after you redeem the code.",
+      "pt": "A Rockstar informa que o pré-download para pré-vendas digitais começou em 10 de novembro de 2026. Você precisa de uma pré-venda digital no PS5 ou no Xbox Series X|S. As cópias físicas contêm um código de download, então o download só pode começar depois que você resgatar o código.",
+      "es": "Rockstar indica que la precarga para las reservas anticipadas digitales comenzó el 10 de noviembre de 2026. Necesitas una reserva anticipada digital en PS5 o Xbox Series X|S. Las copias físicas incluyen un código de descarga, así que la descarga solo puede empezar después de canjear el código.",
+      "tr": "Rockstar, dijital ön sipariş için ön yüklemenin 10 Kasım 2026'da başladığını söylüyor. PS5 veya Xbox Series X|S için dijital bir ön siparişiniz olmalı. Kutulu kopyalar bir indirme kodu içerir, bu yüzden indirme ancak kodu kullandıktan sonra başlayabilir.",
+      "ru": "Rockstar сообщает, что предзагрузка для цифровых предзаказов началась 10 ноября 2026 года. Нужен цифровой предзаказ на PS5 или Xbox Series X|S. Коробочные копии содержат код загрузки, поэтому загрузка может начаться только после активации кода.",
+      "id": "Rockstar menyatakan bahwa pra-unduh untuk pra-pesan digital dimulai pada 10 November 2026. Anda memerlukan pra-pesan digital di PS5 atau Xbox Series X|S. Salinan fisik berisi kode unduh, sehingga unduhan hanya bisa dimulai setelah Anda menukarkan kode tersebut."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712",
+       "title": "Rockstar Newswire — Pre-Load Begins on November 10 (2026-11-03)"
+      },
+      {
+       "url": "https://www.rockstargames.com/newswire/article/89834o94713o21",
+       "title": "Rockstar Newswire — Pre-Load Grand Theft Auto VI Now (2026-11-10)"
+      },
+      {
+       "url": "https://www.tweaktown.com/news/112341/rockstar-confirms-gta-6s-price-no-physical-disc-version/index.html",
+       "title": "TweakTown — price, no disc in boxed copies"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "faq-faq-size",
+     "title": {
+      "en": "How big is the download?",
+      "pt": "Qual é o tamanho do download?",
+      "es": "¿Cuánto pesa la descarga?",
+      "tr": "İndirme ne kadar büyük?",
+      "ru": "Насколько большая загрузка?",
+      "id": "Seberapa besar unduhannya?"
+     },
+     "body": {
+      "en": "Reports on Rockstar's pre-load announcement say up to 212 GB, depending on the console. Plan for that amount of free space plus extra room for day-one updates.",
+      "pt": "Reportagens sobre o anúncio de pré-download da Rockstar dizem que o download chega a 212 GB, dependendo do console. Reserve esse espaço livre, além de espaço extra para as atualizações do primeiro dia.",
+      "es": "Los informes sobre el anuncio de precarga de Rockstar indican hasta 212 GB, según la consola. Prevé ese espacio libre, más margen extra para las actualizaciones del primer día.",
+      "tr": "Rockstar'ın ön yükleme duyurusuna ilişkin haberler, konsola bağlı olarak 212 GB'a kadar olduğunu belirtiyor. Bu miktar kadar boş alan ile çıkıştaki güncellemeler için ek yer ayırın.",
+      "ru": "По сообщениям об анонсе предзагрузки Rockstar, до 212 GB в зависимости от консоли. Закладывайте столько свободного места плюс запас для обновлений в день выхода.",
+      "id": "Laporan tentang pengumuman pra-unduh Rockstar menyebutkan hingga 212 GB, tergantung konsol. Siapkan ruang kosong sebesar itu ditambah ruang ekstra untuk pembaruan hari pertama."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://techradar.com/gaming/gta-6-digital-pre-loads-for-ps5-and-xbox-will-begin-9-days-early-and-require-a-whopping-212gb-of-free-space",
+       "title": "TechRadar — pre-loads, 212GB"
+      },
+      {
+       "url": "https://gamesradar.com/games/grand-theft-auto/rockstar-confirms-gta-6-is-212gb-pre-loading-opens-earlier-than-previously-announced-for-digital-orders",
+       "title": "GamesRadar — 212GB, pre-load earlier"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "faq-faq-online",
+     "title": {
+      "en": "Will there be an online mode?",
+      "pt": "Haverá modo online?",
+      "es": "¿Habrá modo en línea?",
+      "tr": "Çevrimiçi mod olacak mı?",
+      "ru": "Будет ли онлайн-режим?",
+      "id": "Apakah akan ada mode online?"
+     },
+     "body": {
+      "en": "Rockstar has not announced details of an online mode for GTA 6. Take-Two has said that the current GTA Online will keep running after GTA 6 launches. This app will not guess about online features before Rockstar announces them.",
+      "pt": "A Rockstar não anunciou detalhes de um modo online para o GTA 6. A Take-Two disse que o GTA Online atual continuará funcionando depois do lançamento do GTA 6. Este app não vai especular sobre recursos online antes que a Rockstar os anuncie.",
+      "es": "Rockstar no ha anunciado detalles de un modo en línea para GTA 6. Take-Two ha dicho que el GTA Online actual seguirá funcionando después del lanzamiento de GTA 6. Esta app no especulará sobre las funciones en línea antes de que Rockstar las anuncie.",
+      "tr": "Rockstar, GTA 6 için çevrimiçi mod ayrıntılarını duyurmadı. Take-Two, mevcut GTA Online'ın GTA 6 çıktıktan sonra da çalışmaya devam edeceğini söyledi. Bu uygulama, Rockstar duyurmadan önce çevrimiçi özellikler hakkında tahminde bulunmayacak.",
+      "ru": "Rockstar не объявила подробностей об онлайн-режиме GTA 6. Take-Two заявила, что текущая GTA Online продолжит работать после выхода GTA 6. Это приложение не будет строить догадки об онлайн-функциях до их анонса Rockstar.",
+      "id": "Rockstar belum mengumumkan detail mode online untuk GTA 6. Take-Two mengatakan bahwa GTA Online saat ini akan tetap berjalan setelah GTA 6 dirilis. Aplikasi ini tidak akan menebak fitur online sebelum Rockstar mengumumkannya."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://wccftech.com/gta-6-november-19-date-holds-take-two-beats-earnings-zelnick-pc-port/",
+       "title": "Wccftech — Nov 19 holds, PC not announced"
+      },
+      {
+       "url": "https://gamesradar.com/games/grand-theft-auto/gta-6-publisher-says-it-isnt-complicated-for-us-to-support-pc-and-great-cool-so-wheres-that-gta-6-pc-announcement",
+       "title": "GamesRadar — no PC announcement"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "faq-faq-age",
+     "title": {
+      "en": "What is the age rating?",
+      "pt": "Qual é a classificação etária?",
+      "es": "¿Cuál es la clasificación por edad?",
+      "tr": "Yaş derecelendirmesi nedir?",
+      "ru": "Какой возрастной рейтинг?",
+      "id": "Berapa rating usianya?"
+     },
+     "body": {
+      "en": "ESRB: M for Mature 17+. For the PEGI rating in Europe and other regional ratings, check the official rating board website for your country.",
+      "pt": "ESRB: M para Mature 17+. Para a classificação PEGI na Europa e outras classificações regionais, consulte o site oficial da entidade classificadora do seu país.",
+      "es": "ESRB: M, Mature 17+. Para la clasificación PEGI en Europa y otras clasificaciones regionales, consulta el sitio web oficial de la junta de clasificación de tu país.",
+      "tr": "ESRB: M, yani Mature 17+. Avrupa'daki PEGI derecelendirmesi ve diğer bölgesel derecelendirmeler için ülkenizdeki derecelendirme kurulunun resmi web sitesini kontrol edin.",
+      "ru": "ESRB: M, Mature 17+. Рейтинг PEGI в Европе и другие региональные рейтинги смотрите на сайте официального рейтингового органа вашей страны.",
+      "id": "ESRB: M untuk Mature 17+. Untuk rating PEGI di Eropa dan rating regional lainnya, periksa situs resmi badan rating di negara Anda."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.esrb.org/search/?searchKeyword=grand%20theft%20auto%20vi",
+       "title": "ESRB — Grand Theft Auto VI rating"
+      },
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    }
+   ]
+  },
   {
    "id": "cheats",
    "title": {
@@ -65,14 +808,180 @@
   {
    "id": "tips",
    "title": {
-    "en": "Tips",
-    "pt": "Dicas",
-    "es": "Consejos",
-    "tr": "İpuçları",
-    "ru": "Советы",
-    "id": "Tips"
+    "en": "Release day prep",
+    "pt": "Preparação para o dia do lançamento",
+    "es": "Preparativos para el día del lanzamiento",
+    "tr": "Çıkış günü hazırlığı",
+    "ru": "Подготовка к дню выхода",
+    "id": "Persiapan di hari rilis"
    },
-   "items": []
+   "items": [
+    {
+     "id": "tips-prep-space",
+     "title": {
+      "en": "Free up about 212 GB",
+      "pt": "Libere cerca de 212 GB",
+      "es": "Libera unos 212 GB",
+      "tr": "Yaklaşık 212 GB yer açın",
+      "ru": "Освободите около 212 GB",
+      "id": "Kosongkan sekitar 212 GB"
+     },
+     "body": {
+      "en": "The reported download is up to 212 GB. Before release day, delete or move games you are not playing, or move them to external storage. On PS5 and Xbox Series X|S, external drives can store games, but whether you can play from them depends on the console, so check your console's settings.",
+      "pt": "O download informado chega a 212 GB. Antes do dia do lançamento, apague ou mova os jogos que você não está jogando, ou transfira-os para um armazenamento externo. No PS5 e no Xbox Series X|S, drives externos podem armazenar jogos, mas a possibilidade de jogar a partir deles depende do console, então verifique as configurações do seu console.",
+      "es": "La descarga informada es de hasta 212 GB. Antes del día del lanzamiento, borra o traslada los juegos que no estés jugando, o muévelos a almacenamiento externo. En PS5 y Xbox Series X|S, las unidades externas pueden guardar juegos, pero si puedes jugar desde ellas depende de la consola, así que revisa la configuración de tu consola.",
+      "tr": "Bildirilen indirme boyutu 212 GB'a kadar. Çıkış gününden önce oynamadığınız oyunları silin veya taşıyın ya da harici depolama alanına aktarın. PS5 ve Xbox Series X|S'te harici sürücüler oyunları saklayabilir, ancak bunlardan oynayıp oynayamayacağınız konsola bağlı; konsolunuzun ayarlarını kontrol edin.",
+      "ru": "Сообщаемая загрузка до 212 GB. Перед днём выхода удалите или перенесите игры, в которые не играете, либо переместите их на внешний накопитель. На PS5 и Xbox Series X|S внешние диски могут хранить игры, но возможность играть с них зависит от консоли, поэтому проверьте настройки вашей консоли.",
+      "id": "Unduhan yang dilaporkan mencapai 212 GB. Sebelum hari rilis, hapus atau pindahkan game yang tidak Anda mainkan, atau pindahkan ke penyimpanan eksternal. Di PS5 dan Xbox Series X|S, drive eksternal dapat menyimpan game, tetapi apakah game bisa dimainkan dari sana tergantung konsol, jadi periksa pengaturan konsol Anda."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://techradar.com/gaming/gta-6-digital-pre-loads-for-ps5-and-xbox-will-begin-9-days-early-and-require-a-whopping-212gb-of-free-space",
+       "title": "TechRadar — pre-loads, 212GB"
+      },
+      {
+       "url": "https://gamesradar.com/games/grand-theft-auto/rockstar-confirms-gta-6-is-212gb-pre-loading-opens-earlier-than-previously-announced-for-digital-orders",
+       "title": "GamesRadar — 212GB, pre-load earlier"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "tips-prep-preload",
+     "title": {
+      "en": "Pre-load if you bought digitally",
+      "pt": "Faça o pré-download se comprou digitalmente",
+      "es": "Haz la precarga si compraste en digital",
+      "tr": "Dijital satın aldıysanız ön yükleme yapın",
+      "ru": "Сделайте предзагрузку, если покупали цифровую версию",
+      "id": "Pra-unduh jika Anda membeli secara digital"
+     },
+     "body": {
+      "en": "Digital pre-orders can pre-load from November 10, 2026. Start early: a download of this size can take many hours. Leave the console in rest mode so the download can continue.",
+      "pt": "Pré-vendas digitais podem fazer o pré-download a partir de 10 de novembro de 2026. Comece cedo: um download desse tamanho pode levar muitas horas. Deixe o console em modo de repouso para que o download continue.",
+      "es": "Las reservas anticipadas digitales pueden hacer la precarga desde el 10 de noviembre de 2026. Empieza pronto: una descarga de este tamaño puede tardar muchas horas. Deja la consola en modo de reposo para que la descarga pueda continuar.",
+      "tr": "Dijital ön siparişler 10 Kasım 2026'dan itibaren ön yüklenebilir. Erken başlayın: bu boyuttaki bir indirme birkaç saat sürebilir. İndirmenin devam edebilmesi için konsolunuzu dinlenme modunda bırakın.",
+      "ru": "Цифровые предзаказы можно предзагрузить с 10 ноября 2026 года. Начните заранее: загрузка такого объёма может занять много часов. Оставьте консоль в режиме ожидания, чтобы загрузка продолжалась.",
+      "id": "Pra-pesan digital bisa pra-unduh mulai 10 November 2026. Mulailah lebih awal: unduhan sebesar ini bisa memakan waktu berjam-jam. Biarkan konsol dalam mode istirahat agar unduhan bisa terus berjalan."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712",
+       "title": "Rockstar Newswire — Pre-Load Begins on November 10 (2026-11-03)"
+      },
+      {
+       "url": "https://www.rockstargames.com/newswire/article/89834o94713o21",
+       "title": "Rockstar Newswire — Pre-Load Grand Theft Auto VI Now (2026-11-10)"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "tips-prep-code",
+     "title": {
+      "en": "Redeem a boxed copy's code early",
+      "pt": "Resgate logo o código de uma cópia física",
+      "es": "Canjea pronto el código de una copia física",
+      "tr": "Kutulu kopyanın kodunu erken kullanın",
+      "ru": "Активируйте код коробочной версии заранее",
+      "id": "Tukarkan kode salinan fisik lebih awal"
+     },
+     "body": {
+      "en": "Boxed copies contain a download code instead of a disc. Redeem the code as soon as you have the box, so that the download can start before launch day.",
+      "pt": "Cópias físicas contêm um código de download em vez de disco. Resgate o código assim que tiver a caixa, para que o download possa começar antes do dia do lançamento.",
+      "es": "Las copias físicas incluyen un código de descarga en lugar de disco. Canjea el código en cuanto tengas la caja, para que la descarga pueda empezar antes del día del lanzamiento.",
+      "tr": "Kutulu kopyalar disk yerine bir indirme kodu içerir. Kutuyu elinize alır almaz kodu kullanın, böylece indirme çıkış gününden önce başlayabilsin.",
+      "ru": "Коробочные копии содержат код загрузки вместо диска. Активируйте код, как только получите коробку, чтобы загрузка могла начаться до дня выхода.",
+      "id": "Salinan fisik berisi kode unduh, bukan disk. Tukarkan kode segera setelah Anda memiliki kotaknya, agar unduhan bisa dimulai sebelum hari rilis."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.tweaktown.com/news/112341/rockstar-confirms-gta-6s-price-no-physical-disc-version/index.html",
+       "title": "TweakTown — price, no disc in boxed copies"
+      },
+      {
+       "url": "https://techradar.com/gaming/gta-6-pre-orders-go-live-at-midnight-local-time-as-rockstar-unveils-the-ultimate-edition-that-amplifies-the-experience-with-exclusive-items",
+       "title": "TechRadar — pre-orders and Ultimate Edition"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "tips-prep-update",
+     "title": {
+      "en": "Update your console and keep it online",
+      "pt": "Atualize seu console e mantenha-o conectado",
+      "es": "Actualiza tu consola y mantenla conectada",
+      "tr": "Konsolunuzu güncelleyin ve internete bağlı tutun",
+      "ru": "Обновите консоль и держите её в сети",
+      "id": "Perbarui konsol dan tetap terhubung internet"
+     },
+     "body": {
+      "en": "Before launch, install the latest system update and keep an internet connection. A digital game of this size and any day-one update both need to be downloaded.",
+      "pt": "Antes do lançamento, instale a versão mais recente do sistema e mantenha a conexão com a internet. Um jogo digital desse tamanho e qualquer atualização do primeiro dia precisam ser baixados.",
+      "es": "Antes del lanzamiento, instala la última actualización del sistema y mantén la conexión a internet. Un juego digital de este tamaño y cualquier actualización del primer día deben descargarse.",
+      "tr": "Çıkıştan önce en son sistem güncellemesini yükleyin ve bir internet bağlantısı açık tutun. Bu boyuttaki dijital bir oyun ve çıkış günü güncellemesi indirilmek zorunda.",
+      "ru": "Перед выходом установите последнее системное обновление и поддерживайте подключение к интернету. Цифровую игру такого размера и любое обновление в день выхода нужно будет загрузить.",
+      "id": "Sebelum rilis, pasang pembaruan sistem terbaru dan tetap terhubung ke internet. Game digital berukuran besar dan pembaruan hari pertama apa pun keduanya perlu diunduh."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/newswire/article/89834o94713o21",
+       "title": "Rockstar Newswire — Pre-Load Grand Theft Auto VI Now (2026-11-10)"
+      },
+      {
+       "url": "https://techradar.com/gaming/gta-6-digital-pre-loads-for-ps5-and-xbox-will-begin-9-days-early-and-require-a-whopping-212gb-of-free-space",
+       "title": "TechRadar — pre-loads, 212GB"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    },
+    {
+     "id": "tips-prep-store",
+     "title": {
+      "en": "Buy only from official stores",
+      "pt": "Compre apenas em lojas oficiais",
+      "es": "Compra solo en tiendas oficiales",
+      "tr": "Yalnızca resmi mağazalardan satın alın",
+      "ru": "Покупайте только в официальных магазинах",
+      "id": "Beli hanya dari toko resmi"
+     },
+     "body": {
+      "en": "Buy the game from PlayStation Store, Microsoft Store or a known retailer. The official game page links to the official stores. Ignore offers for early copies, free keys or cheat codes for GTA 6: none of these are confirmed by Rockstar.",
+      "pt": "Compre o jogo na PlayStation Store, na Microsoft Store ou em um varejista conhecido. A página oficial do jogo tem links para as lojas oficiais. Ignore ofertas de cópias antecipadas, chaves gratuitas ou códigos de trapaça para o GTA 6: nenhuma delas é confirmada pela Rockstar.",
+      "es": "Compra el juego en PlayStation Store, Microsoft Store o un minorista conocido. La página oficial del juego enlaza a las tiendas oficiales. Ignora las ofertas de copias anticipadas, claves gratuitas o códigos de trucos para GTA 6: Rockstar no confirma ninguno de ellos.",
+      "tr": "Oyunu PlayStation Store, Microsoft Store veya bilinen bir satıcıdan satın alın. Resmi oyun sayfası resmi mağazalara bağlantı veriyor. GTA 6 için erken kopya, bedava anahtar veya hile kodu tekliflerini yok sayın: bunların hiçbiri Rockstar tarafından doğrulanmadı.",
+      "ru": "Покупайте игру в PlayStation Store, Microsoft Store или у известного ритейлера. Официальная страница игры ведёт в официальные магазины. Игнорируйте предложения о ранних копиях, бесплатных ключах или чит-кодах для GTA 6: Rockstar ни одно из них не подтверждала.",
+      "id": "Beli game dari PlayStation Store, Microsoft Store, atau pengecer terpercaya. Halaman game resmi menautkan ke toko resmi. Abaikan penawaran salinan awal, kunci gratis, atau kode curang untuk GTA 6: semuanya tidak dikonfirmasi oleh Rockstar."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.rockstargames.com/VI",
+       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+      },
+      {
+       "url": "https://engadget.com/2200483/rockstar-reveals-gta-6-pricing-launch/",
+       "title": "Engadget — Rockstar reveals GTA 6 pricing"
+      }
+     ],
+     "added": "2026-11-11T00:00Z",
+     "pinned": true
+    }
+   ]
   }
  ],
  "buy": {}
