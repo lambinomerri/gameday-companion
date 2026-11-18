@@ -755,32 +755,7 @@
     "ru": "Коды",
     "id": "Cheat"
    },
-   "items": [
-    {
-     "id": "cheats-status",
-     "title": {
-      "en": "Cheats in GTA 6: current status",
-      "pt": "Cheats no GTA 6: situação atual",
-      "es": "Trucos de GTA 6: situación actual",
-      "tr": "GTA 6'da hileler: güncel durum",
-      "ru": "Читы в GTA 6: что сейчас известно",
-      "id": "Cheat di GTA 6: status saat ini"
-     },
-     "body": {
-      "en": "Rockstar hasn't published GTA 6 cheat codes yet. Most lists online are GTA V codes — they don't work in GTA 6. We add a code here only after two independent sources confirm it.",
-      "pt": "A Rockstar ainda não publicou códigos de trapaça do GTA 6. A maioria das listas na internet são códigos do GTA V — eles não funcionam no GTA 6. Só adicionamos um código aqui depois que duas fontes independentes o confirmam.",
-      "es": "Rockstar todavía no ha publicado trucos de GTA 6. La mayoría de las listas en internet son códigos de GTA V — no funcionan en GTA 6. Solo agregamos un código aquí cuando dos fuentes independientes lo confirman.",
-      "tr": "Rockstar henüz GTA 6 hile kodlarını yayınlamadı. İnternetteki listelerin çoğu GTA V kodlarıdır — GTA 6'da çalışmazlar. Bir kodu buraya ancak iki bağımsız kaynak doğruladıktan sonra ekliyoruz.",
-      "ru": "Rockstar пока не опубликовала чит-коды GTA 6. Большинство списков в сети — коды из GTA V, в GTA 6 они не работают. Мы добавляем код сюда, только когда его подтвердят два независимых источника.",
-      "id": "Rockstar belum merilis kode cheat GTA 6. Sebagian besar daftar di internet adalah kode GTA V — kode itu tidak berfungsi di GTA 6. Kami menambahkan kode di sini hanya setelah dua sumber independen mengonfirmasinya."
-     },
-     "platform": "all",
-     "confidence": 0,
-     "sources": [],
-     "added": "2026-11-18T13:30Z",
-     "pinned": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "money",
