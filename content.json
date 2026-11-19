@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T22:07:01Z",
+ "updated": "2026-11-19T23:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1456,6 +1456,70 @@
     "id": "Misi"
    },
    "items": [
+    {
+     "id": "missions-6df76f5591",
+     "title": {
+      "en": "Register a stolen car with Moses",
+      "pt": "Registrar um carro roubado com Moses",
+      "es": "Registrar un coche robado con Moses",
+      "tr": "Moses ile çalıntı aracı kaydettir",
+      "ru": "Зарегистрировать угнанную машину у Moses",
+      "id": "Daftarkan mobil curian ke Moses"
+     },
+     "body": {
+      "en": "Steal a car without a tracker (scan it with the WAiNK app); take it to the MW icon on the map; respray it first, the first registration is free",
+      "pt": "Roube um carro sem rastreador (escaneie com o app WAiNK); leve até o ícone MW no mapa; pinte antes, o primeiro registro é grátis",
+      "es": "Roba un coche sin rastreador (escanéalo con la app WAiNK); llévalo al icono MW del mapa; pínta lo antes, el primer registro es gratis",
+      "tr": "Takip cihazı olmayan bir araba çal (WAiNK uygulamasıyla tara); haritadaki MW simgesine götür; önce boyat, ilk kayıt ücretsiz",
+      "ru": "Угоните машину без трекера (отсканируйте в приложении WAiNK); отгоните к значку MW на карте; сначала перекрасьте, первая регистрация бесплатна",
+      "id": "Curi mobil tanpa pelacak (pindai dengan aplikasi WAiNK); bawa ke ikon MW di peta; cat ulang dulu, pendaftaran pertama gratis"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/gta-6-moses-walkthrough",
+       "title": "GTA 6 Moses walkthrough | Eurogamer.net"
+      },
+      {
+       "url": "https://www.videogameschronicle.com/guide/gta-6-moses-mission-walkthrough/",
+       "title": "GTA 6 Moses Mission Walkthrough | VGC"
+      }
+     ],
+     "added": "2026-11-19T23:07:01Z"
+    },
+    {
+     "id": "missions-88843a28e2",
+     "title": {
+      "en": "Slim Jim: break into cars quietly",
+      "pt": "Slim Jim: arrombe carros discretamente",
+      "es": "Slim Jim: fuerza coches en silencio",
+      "tr": "Slim Jim: arabaları sessizce aç",
+      "ru": "Slim Jim: тихо взламывайте машины",
+      "id": "Slim Jim: bobol mobil diam-diam"
+     },
+     "body": {
+      "en": "Use a Slim Jim to break in without setting off the alarm; Moses won't take a car with an alarm; doesn't work on keyless cars (mostly supercars, hypercars)",
+      "pt": "Use um Slim Jim para entrar sem disparar o alarme; Moses não aceita carro com alarme; não funciona em carros com chave eletrônica (principalmente superesportivos, hiperesportivos)",
+      "es": "Usa un Slim Jim para entrar sin activar la alarma; Moses no acepta coches con alarma; no funciona en coches sin llave (sobre todo superdeportivos, hiperdeportivos)",
+      "tr": "Alarmı çalıştırmadan girmek için Slim Jim kullan; Moses alarmlı arabayı almaz; anahtarsız arabalarda çalışmaz (çoğunlukla süper ve hiper otomobiller)",
+      "ru": "Используйте Slim Jim, чтобы войти без срабатывания сигнализации; Moses не возьмёт машину с сигнализацией; не работает на машинах с бесключевым доступом (в основном суперкары, гиперкары)",
+      "id": "Gunakan Slim Jim untuk masuk tanpa memicu alarm; Moses tidak mau menerima mobil dengan alarm; tidak berfungsi di mobil keyless (kebanyakan supercar, hypercar)"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/gta-6-moses-walkthrough",
+       "title": "GTA 6 Moses walkthrough | Eurogamer.net"
+      },
+      {
+       "url": "https://www.videogameschronicle.com/guide/gta-6-moses-mission-walkthrough/",
+       "title": "GTA 6 Moses Mission Walkthrough | VGC"
+      }
+     ],
+     "added": "2026-11-19T23:07:01Z"
+    },
     {
      "id": "missions-5db485d0e2",
      "title": {
