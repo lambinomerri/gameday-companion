@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T15:07:01Z",
+ "updated": "2026-11-19T15:21:28Z",
  "sections": [
   {
    "id": "news",
@@ -908,6 +908,72 @@
      "input": "DOWN, UP, UP, DOWN, UP, DOWN, UP, DOWN, UP, RIGHT"
     },
     {
+     "id": "cheat-e67b2faa0a",
+     "title": {
+      "en": "Attack force",
+      "pt": "Força de ataque",
+      "es": "Fuerza de ataque",
+      "tr": "Saldırı gücü",
+      "ru": "Сила атаки",
+      "id": "Kekuatan serangan"
+     },
+     "body": {
+      "en": "Unlock: complete the main story. Bullets and melee attacks launch targets on impact.",
+      "pt": "Desbloqueio: conclua a história principal. Balas e ataques corpo a corpo lançam alvos ao impacto.",
+      "es": "Desbloqueo: completa la historia principal. Las balas y los ataques cuerpo a cuerpo lanzan a los objetivos al impactar.",
+      "tr": "Açılış: ana hikayeyi tamamla. Mermiler ve yakın dövüş saldırıları hedefleri çarpınca savurur.",
+      "ru": "Разблокировка: пройдите основной сюжет. Пули и удары ближнего боя отбрасывают цели при попадании.",
+      "id": "Buka: selesaikan cerita utama. Peluru dan serangan jarak dekat melemparkan target saat terkena."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "DOWN, UP, LEFT, LEFT, RIGHT, DOWN, DOWN, UP, DOWN"
+    },
+    {
+     "id": "cheat-eb736eba83",
+     "title": {
+      "en": "Exploding balls",
+      "pt": "Bolas explosivas",
+      "es": "Balones explosivos",
+      "tr": "Patlayan toplar",
+      "ru": "Взрывные мячи",
+      "id": "Bola meledak"
+     },
+     "body": {
+      "en": "Unlock: hit 20 enemies with explosive damage. Sports balls explode on impact.",
+      "pt": "Desbloqueio: acerte 20 inimigos com dano explosivo. Bolas esportivas explodem ao impacto.",
+      "es": "Desbloqueo: alcanza a 20 enemigos con daño explosivo. Los balones explotan al impactar.",
+      "tr": "Açılış: 20 düşmana patlayıcı hasar ver. Spor topları çarptığında patlar.",
+      "ru": "Разблокировка: нанесите взрывной урон 20 врагам. Спортивные мячи взрываются при ударе.",
+      "id": "Buka: kenai 20 musuh dengan damage ledakan. Bola olahraga meledak saat terkena."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "DOWN, UP, LEFT, LEFT, RIGHT, DOWN, DOWN, UP, RIGHT"
+    },
+    {
      "id": "cheat-0cdd0731d5",
      "title": {
       "en": "Max ammo",
@@ -941,6 +1007,303 @@
      ],
      "added": "2026-11-19T04:16:55Z",
      "input": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, UP, DOWN, LEFT"
+    },
+    {
+     "id": "cheat-877b743422",
+     "title": {
+      "en": "No reload",
+      "pt": "Sem recarregar",
+      "es": "Sin recargar",
+      "tr": "Şarjör yok",
+      "ru": "Без перезарядки",
+      "id": "Tanpa reload"
+     },
+     "body": {
+      "en": "Unlock: win 25 gold medals at shooting ranges. Ammo never runs out and you don't need to reload.",
+      "pt": "Desbloqueio: vença 25 medalhas de ouro nos estandes de tiro. A munição nunca acaba e você não precisa recarregar.",
+      "es": "Desbloqueo: gana 25 medallas de oro en los campos de tiro. La munición nunca se acaba y no necesitas recargar.",
+      "tr": "Açılış: atış poligonlarında 25 altın madalya kazan. Mermin hiç bitmez, şarjör değiştirmene gerek kalmaz.",
+      "ru": "Разблокировка: выиграйте 25 золотых медалей в тирах. Патроны не заканчиваются, перезаряжать не нужно.",
+      "id": "Buka: menangkan 25 medali emas di shooting range. Amunisi tidak pernah habis dan kamu tidak perlu reload."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, DOWN, DOWN, UP"
+    },
+    {
+     "id": "cheat-cc7c78aa23",
+     "title": {
+      "en": "Spawn HVY Bulldozer",
+      "pt": "Gerar HVY Bulldozer",
+      "es": "Generar HVY Bulldozer",
+      "tr": "HVY Bulldozer çağır",
+      "ru": "Призвать HVY Bulldozer",
+      "id": "Munculkan HVY Bulldozer"
+     },
+     "body": {
+      "en": "Unlock: discover the HVY Bulldozer in the Progress menu.",
+      "pt": "Desbloqueio: descubra o HVY Bulldozer no menu Progresso.",
+      "es": "Desbloqueo: descubre el HVY Bulldozer en el menú de progreso.",
+      "tr": "Açılış: İlerleme menüsünde HVY Bulldozer'ı keşfet.",
+      "ru": "Разблокировка: откройте HVY Bulldozer в меню прогресса.",
+      "id": "Buka: temukan HVY Bulldozer di menu Progress."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "LEFT, UP, RIGHT, DOWN, LEFT, RIGHT, RIGHT, DOWN"
+    },
+    {
+     "id": "cheat-1a2a46f332",
+     "title": {
+      "en": "Spawn Maibatsu Boomazoom",
+      "pt": "Gerar Maibatsu Boomazoom",
+      "es": "Generar Maibatsu Boomazoom",
+      "tr": "Maibatsu Boomazoom çağır",
+      "ru": "Призвать Maibatsu Boomazoom",
+      "id": "Munculkan Maibatsu Boomazoom"
+     },
+     "body": {
+      "en": "Unlock: complete 5 shopping challenges. Spawns the car at your current location.",
+      "pt": "Desbloqueio: complete 5 desafios de compras. Gera o carro na sua localização atual.",
+      "es": "Desbloqueo: completa 5 desafíos de compras. Genera el coche en tu ubicación actual.",
+      "tr": "Açılış: 5 alışveriş görevini tamamla. Arabayı bulunduğun yerde çağırır.",
+      "ru": "Разблокировка: выполните 5 испытаний в магазинах. Призывает машину на ваше текущее место.",
+      "id": "Buka: selesaikan 5 shopping challenge. Memunculkan mobil di lokasimu saat ini."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "LEFT, UP, RIGHT, DOWN, LEFT, LEFT, UP, LEFT"
+    },
+    {
+     "id": "cheat-356a23c0c6",
+     "title": {
+      "en": "Spawn MTL Pumper",
+      "pt": "Gerar MTL Pumper",
+      "es": "Generar MTL Pumper",
+      "tr": "MTL Pumper çağır",
+      "ru": "Призвать MTL Pumper",
+      "id": "Munculkan MTL Pumper"
+     },
+     "body": {
+      "en": "Unlock: discover the MTL Pumper in the Progress menu.",
+      "pt": "Desbloqueio: descubra o MTL Pumper no menu Progresso.",
+      "es": "Desbloqueo: descubre el MTL Pumper en el menú de progreso.",
+      "tr": "Açılış: İlerleme menüsünde MTL Pumper'ı keşfet.",
+      "ru": "Разблокировка: откройте MTL Pumper в меню прогресса.",
+      "id": "Buka: temukan MTL Pumper di menu Progress."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "LEFT, UP, RIGHT, DOWN, LEFT, RIGHT, RIGHT, UP"
+    },
+    {
+     "id": "cheat-dde560c452",
+     "title": {
+      "en": "Vehicle force",
+      "pt": "Força veicular",
+      "es": "Fuerza de vehículo",
+      "tr": "Araç gücü",
+      "ru": "Сила транспорта",
+      "id": "Kekuatan kendaraan"
+     },
+     "body": {
+      "en": "Unlock: kill 25 enemies with a vehicle. Vehicle collisions launch targets.",
+      "pt": "Desbloqueio: mate 25 inimigos com um veículo. Colisões de veículos lançam alvos.",
+      "es": "Desbloqueo: mata a 25 enemigos con un vehículo. Las colisiones con vehículos lanzan a los objetivos.",
+      "tr": "Açılış: bir araçla 25 düşman öldür. Araç çarpışmaları hedefleri savurur.",
+      "ru": "Разблокировка: убейте 25 врагов на транспорте. Столкновения с транспортом отбрасывают цели.",
+      "id": "Buka: bunuh 25 musuh dengan kendaraan. Tabrakan kendaraan melemparkan target."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "DOWN, UP, LEFT, LEFT, RIGHT, DOWN, LEFT, UP, DOWN"
+    },
+    {
+     "id": "cheat-ae506372fb",
+     "title": {
+      "en": "Cataclysm",
+      "pt": "Cataclismo",
+      "es": "Cataclismo",
+      "tr": "Kıyamet",
+      "ru": "Катаклизм",
+      "id": "Cataclysm"
+     },
+     "body": {
+      "en": "Unlock: discover Martha's Vamos in the Progress menu. Fills the world with murky smoke.",
+      "pt": "Desbloqueio: descubra o Martha's Vamos no menu Progresso. Enche o mundo de fumaça densa.",
+      "es": "Desbloqueo: descubre el Martha's Vamos en el menú de progreso. Llena el mundo de humo turbio.",
+      "tr": "Açılış: İlerleme menüsünde Martha's Vamos'u keşfet. Dünyayı kasvetli dumanla doldurur.",
+      "ru": "Разблокировка: откройте Martha's Vamos в меню прогресса. Заполняет мир мутным дымом.",
+      "id": "Buka: temukan Martha's Vamos di menu Progress. Memenuhi dunia dengan asap keruh."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, RIGHT, RIGHT"
+    },
+    {
+     "id": "cheat-ea7e27e976",
+     "title": {
+      "en": "Raise heat level",
+      "pt": "Aumentar nível de calor",
+      "es": "Subir nivel de calor",
+      "tr": "Isı seviyesini artır",
+      "ru": "Повысить уровень розыска",
+      "id": "Naikkan tingkat heat"
+     },
+     "body": {
+      "en": "Unlock: lose a 3-star wanted level 25 times. Raises your heat level across the map.",
+      "pt": "Desbloqueio: perca um nível de procurado de 3 estrelas 25 vezes. Aumenta seu nível de calor pelo mapa.",
+      "es": "Desbloqueo: pierde un nivel de busca de 3 estrellas 25 veces. Aumenta tu nivel de calor en todo el mapa.",
+      "tr": "Açılış: 3 yıldızlı arananlık seviyesini 25 kez kaybet. Haritadaki ısı seviyeni artırır.",
+      "ru": "Разблокировка: 25 раз потеряйте 3-звёздочный уровень розыска. Повышает уровень розыска по всей карте.",
+      "id": "Buka: hilangkan wanted level 3 bintang 25 kali. Menaikkan tingkat heat di seluruh peta."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "LEFT, DOWN, RIGHT, DOWN, UP, DOWN, UP"
+    },
+    {
+     "id": "cheat-63fddf4c38",
+     "title": {
+      "en": "Dollhouse filter",
+      "pt": "Filtro Dollhouse",
+      "es": "Filtro Dollhouse",
+      "tr": "Dollhouse filtresi",
+      "ru": "Фильтр Dollhouse",
+      "id": "Filter Dollhouse"
+     },
+     "body": {
+      "en": "Unlock: spend 8 hours with your partner. Applies a vivid filter with a narrow aspect ratio.",
+      "pt": "Desbloqueio: passe 8 horas com seu parceiro. Aplica um filtro vívido com proporção de tela estreita.",
+      "es": "Desbloqueo: pasa 8 horas con tu pareja. Aplica un filtro vivo con relación de aspecto estrecha.",
+      "tr": "Açılış: partnerinle 8 saat geçir. Canlı renkli filtre ve dar en-boy oranı uygular.",
+      "ru": "Разблокировка: проведите 8 часов с напарником. Яркий фильтр с узким соотношением сторон.",
+      "id": "Buka: habiskan 8 jam bersama partnermu. Menerapkan filter cerah dengan aspect ratio sempit."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT"
+    },
+    {
+     "id": "cheat-2c204d2502",
+     "title": {
+      "en": "Faded Glory filter",
+      "pt": "Filtro Faded Glory",
+      "es": "Filtro Faded Glory",
+      "tr": "Faded Glory filtresi",
+      "ru": "Фильтр Faded Glory",
+      "id": "Filter Faded Glory"
+     },
+     "body": {
+      "en": "Unlock: rob 50 stores with your partner. Applies a color CRT TV filter.",
+      "pt": "Desbloqueio: roube 50 lojas com seu parceiro. Aplica um filtro de TV CRT colorido.",
+      "es": "Desbloqueo: roba 50 tiendas con tu pareja. Aplica un filtro de TV CRT en color.",
+      "tr": "Açılış: partnerinle 50 dükkânı soy. Renkli CRT TV filtresi uygular.",
+      "ru": "Разблокировка: ограбьте 50 магазинов с напарником. Применяет цветной фильтр ЭЛТ-телевизора.",
+      "id": "Buka: rampok 50 toko bersama partnermu. Menerapkan filter TV CRT berwarna."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T15:21:28Z",
+     "input": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, LEFT, RIGHT"
     }
    ]
   },
