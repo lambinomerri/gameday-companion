@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T04:07:01Z",
+ "updated": "2026-11-19T04:16:55Z",
  "sections": [
   {
    "id": "news",
@@ -755,7 +755,160 @@
     "ru": "Коды",
     "id": "Cheat"
    },
-   "items": []
+   "items": [
+    {
+     "id": "cheat-3c8be6ad5b",
+     "title": {
+      "en": "Body armor",
+      "es": "Chaleco antibalas",
+      "tr": "Zırh",
+      "ru": "Бронежилет",
+      "id": "Rompi antipeluru"
+     },
+     "body": {
+      "en": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Disables Trophies/Achievements and saving for the session.",
+      "es": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Desactiva Trofeos/Logros y el guardado durante la sesión.",
+      "tr": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Oturum boyunca Kupaları/Başarımları ve kaydetmeyi devre dışı bırakır.",
+      "ru": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Отключает трофеи/достижения и сохранение на время сессии.",
+      "id": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Menonaktifkan Trofi/Pencapaian dan penyimpanan selama sesi."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      },
+      {
+       "url": "https://www.rockpapershotgun.com/gta-6-cheats-list",
+       "title": "GTA 6 Cheats: All Cheat Codes And How To Unlock Them | Rock Paper Shotgun"
+      }
+     ],
+     "added": "2026-11-19T04:16:55Z",
+     "input": "DOWN, UP, LEFT, UP, UP, UP, UP, UP, DOWN, DOWN"
+    },
+    {
+     "id": "cheat-3fda2ae2ca",
+     "title": {
+      "en": "Get $250,000",
+      "pt": "Ganhe $250,000",
+      "es": "Consigue $250,000",
+      "tr": "$250,000 kazan",
+      "ru": "Получите $250,000",
+      "id": "Dapatkan $250,000"
+     },
+     "body": {
+      "en": "D-pad: Up, Right, Down, Left, Up, Left, Down, Right. Disables Trophies/Achievements and saving for the session.",
+      "pt": "D-pad: Up, Right, Down, Left, Up, Left, Down, Right. Desativa Troféus/Conquistas e o salvamento durante a sessão.",
+      "es": "D-pad: Up, Right, Down, Left, Up, Left, Down, Right. Desactiva Trofeos/Logros y el guardado durante la sesión.",
+      "tr": "D-pad: Up, Right, Down, Left, Up, Left, Down, Right. Oturum boyunca Ödüller/Başarımlar ve kayıt devre dışı kalır.",
+      "ru": "D-pad: Up, Right, Down, Left, Up, Left, Down, Right. Отключает трофеи/достижения и сохранение на время сеанса.",
+      "id": "D-pad: Up, Right, Down, Left, Up, Left, Down, Right. Menonaktifkan Trofi/Pencapaian dan penyimpanan selama sesi."
+     },
+     "platform": "all",
+     "confidence": 4,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/all-gta-6-cheats",
+       "title": "All GTA 6 cheats | Eurogamer.net"
+      },
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      },
+      {
+       "url": "https://www.rockpapershotgun.com/gta-6-cheats-list",
+       "title": "GTA 6 Cheats: All Cheat Codes And How To Unlock Them | Rock Paper Shotgun"
+      }
+     ],
+     "added": "2026-11-19T04:16:55Z",
+     "input": "UP, RIGHT, DOWN, LEFT, UP, LEFT, DOWN, RIGHT"
+    },
+    {
+     "id": "cheat-0253aaf236",
+     "title": {
+      "en": "Unlimited Focus",
+      "pt": "Foco ilimitado",
+      "es": "Concentración ilimitada",
+      "tr": "Sınırsız Odak",
+      "ru": "Неограниченный фокус",
+      "id": "Fokus tanpa batas"
+     },
+     "body": {
+      "en": "D-pad: Down, Up, Up, Down, Up, Down, Up, Down, Up, Right. Disables Trophies/Achievements and saving for the session.",
+      "pt": "D-pad: Down, Up, Up, Down, Up, Down, Up, Down, Up, Right. Desativa Troféus/Conquistas e o salvamento durante a sessão.",
+      "es": "D-pad: Down, Up, Up, Down, Up, Down, Up, Down, Up, Right. Desactiva Trofeos/Logros y el guardado durante la sesión.",
+      "tr": "D-pad: Down, Up, Up, Down, Up, Down, Up, Down, Up, Right. Oturum boyunca Ödüller/Başarımlar ve kayıt devre dışı kalır.",
+      "ru": "D-pad: Down, Up, Up, Down, Up, Down, Up, Down, Up, Right. Отключает трофеи/достижения и сохранение на время сеанса.",
+      "id": "D-pad: Down, Up, Up, Down, Up, Down, Up, Down, Up, Right. Menonaktifkan Trofi/Pencapaian dan penyimpanan selama sesi."
+     },
+     "platform": "all",
+     "confidence": 4,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/all-gta-6-cheats",
+       "title": "All GTA 6 cheats | Eurogamer.net"
+      },
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      },
+      {
+       "url": "https://www.rockpapershotgun.com/gta-6-cheats-list",
+       "title": "GTA 6 Cheats: All Cheat Codes And How To Unlock Them | Rock Paper Shotgun"
+      }
+     ],
+     "added": "2026-11-19T04:16:55Z",
+     "input": "DOWN, UP, UP, DOWN, UP, DOWN, UP, DOWN, UP, RIGHT"
+    },
+    {
+     "id": "cheat-0cdd0731d5",
+     "title": {
+      "en": "Max ammo",
+      "pt": "Munição máxima",
+      "es": "Munición máxima",
+      "tr": "Maksimum mermi",
+      "id": "Amunisi maksimal"
+     },
+     "body": {
+      "en": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Disables Trophies/Achievements and saving for the session.",
+      "pt": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Desativa Troféus/Conquistas e o salvamento durante a sessão.",
+      "es": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Desactiva Trofeos/Logros y el guardado durante la sesión.",
+      "tr": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Oturum boyunca Kupaları/Başarımları ve kaydetmeyi devre dışı bırakır.",
+      "id": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Menonaktifkan Trofi/Pencapaian dan penyimpanan selama sesi."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+      },
+      {
+       "url": "https://www.rockpapershotgun.com/gta-6-cheats-list",
+       "title": "GTA 6 Cheats: All Cheat Codes And How To Unlock Them | Rock Paper Shotgun"
+      }
+     ],
+     "added": "2026-11-19T04:16:55Z",
+     "input": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, UP, DOWN, LEFT"
+    }
+   ]
   },
   {
    "id": "money",
@@ -779,7 +932,44 @@
     "ru": "Оружие",
     "id": "Senjata"
    },
-   "items": []
+   "items": [
+    {
+     "id": "weapons-d88e0135c7",
+     "title": {
+      "en": "Buy guns at Ammu-Nation to own them forever",
+      "pt": "Compre armas na Ammu-Nation para tê-las para sempre",
+      "es": "Compra armas en Ammu-Nation para tenerlas para siempre",
+      "tr": "Silahları Ammu-Nation'dan satın al, sonsuza dek sende kalsın",
+      "ru": "Покупайте оружие в Ammu-Nation, чтобы оно было ваше навсегда",
+      "id": "Beli senjata di Ammu-Nation agar jadi milikmu selamanya"
+     },
+     "body": {
+      "en": "Visit an Ammu-Nation gun store in Leonida; speak with the gun clerk and buy weapons; purchased weapons are owned forever.",
+      "pt": "Visite uma loja de armas Ammu-Nation em Leonida; fale com o atendente e compre armas; as armas compradas são suas para sempre.",
+      "es": "Visita una armería Ammu-Nation en Leonida; habla con el dependiente y compra armas; las armas compradas son tuyas para siempre.",
+      "tr": "Leonida'daki bir Ammu-Nation silah dükkanını ziyaret et; dükkan görevlisiyle konuşup silah satın al; satın alınan silahlar sonsuza dek sende kalır.",
+      "ru": "Посетите магазин оружия Ammu-Nation в Леониде; поговорите с продавцом и купите оружие; купленное оружие остаётся у вас навсегда.",
+      "id": "Kunjungi toko senjata Ammu-Nation di Leonida; bicara dengan penjaga toko dan beli senjata; senjata yang dibeli menjadi milikmu selamanya."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-how-weapons-work/",
+       "title": "Weapon System in GTA 6, Explained"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/",
+       "title": "GTA 6 weapon ownership explained: How to keep your favorite guns | GamesRadar+"
+      },
+      {
+       "url": "https://www.rockpapershotgun.com/gta-6-100-percent-completion",
+       "title": "GTA 6 100% Completion Checklist: All requirements | Rock Paper Shotgun"
+      }
+     ],
+     "added": "2026-11-19T04:16:55Z"
+    }
+   ]
   },
   {
    "id": "cars",
@@ -791,7 +981,72 @@
     "ru": "Машины",
     "id": "Mobil"
    },
-   "items": []
+   "items": [
+    {
+     "id": "cars-e9758c708d",
+     "title": {
+      "en": "Summon or recover your car with ScooterBros",
+      "pt": "Chame ou recupere seu carro com a ScooterBros",
+      "es": "Llama o recupera tu coche con ScooterBros",
+      "tr": "ScooterBros ile arabanı çağır veya geri al",
+      "ru": "Вызовите или верните машину через ScooterBros",
+      "id": "Panggil atau ambil mobilmu dengan ScooterBros"
+     },
+     "body": {
+      "en": "Unlock the Scooter Bros app in the 'Moses' mission early in Chapter 2; summon vehicles through the app; recovering your ride costs a significant fee",
+      "pt": "Desbloqueie o app Scooter Bros na missão 'Moses' no início do Capítulo 2; chame veículos pelo app; recuperar seu veículo custa uma taxa alta",
+      "es": "Desbloquea la app Scooter Bros en la misión 'Moses' al inicio del Capítulo 2; llama vehículos desde la app; recuperar tu vehículo cuesta una tarifa considerable",
+      "tr": "Scooter Bros uygulamasını 2. Bölüm başındaki 'Moses' görevinde aç; araçları uygulama üzerinden çağır; aracını geri almak yüksek bir ücrete mal olur",
+      "ru": "Откройте приложение Scooter Bros в миссии 'Moses' в начале Главы 2; вызывайте транспорт через приложение; возврат машины стоит немало",
+      "id": "Buka aplikasi Scooter Bros di misi 'Moses' di awal Bab 2; panggil kendaraan lewat aplikasi; mengambil kendaraanmu butuh biaya besar"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/how-to-summon-vehicles-gta-6",
+       "title": "How to summon vehicles in GTA 6 | Eurogamer.net"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/",
+       "title": "How to own more vehicles in GTA 6 | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T04:16:55Z"
+    },
+    {
+     "id": "cars-f680c8035f",
+     "title": {
+      "en": "Summon your car with the ScooterBros app",
+      "pt": "Chame seu carro pelo app ScooterBros",
+      "es": "Llama tu coche con la app ScooterBros",
+      "tr": "ScooterBros uygulamasıyla arabanı çağır",
+      "ru": "Вызовите машину через приложение ScooterBros",
+      "id": "Panggil mobilmu lewat aplikasi ScooterBros"
+     },
+     "body": {
+      "en": "Open the ScooterBros app on your phone; select the option to get a car delivered; pay $100 per drop, or $12,000 once for up to three free summons per day.",
+      "pt": "Abra o app ScooterBros no celular; selecione a opção de entrega de carro; pague $100 por entrega, ou $12,000 uma vez para até três chamadas grátis por dia.",
+      "es": "Abre la app ScooterBros en tu teléfono; elige la opción para que te entreguen un coche; paga $100 por entrega, o $12,000 una vez para hasta tres llamadas gratis al día.",
+      "tr": "Telefonunda ScooterBros uygulamasını aç; araba teslimatı seçeneğini seç; teslimat başına $100 öde ya da günde en fazla üç ücretsiz çağrı için bir kerelik $12,000 öde.",
+      "ru": "Откройте приложение ScooterBros на телефоне; выберите доставку машины; платите $100 за вызов или $12,000 единоразово за до трёх бесплатных вызовов в день.",
+      "id": "Buka aplikasi ScooterBros di ponselmu; pilih opsi pengantaran mobil; bayar $100 per pengantaran, atau $12,000 sekali untuk hingga tiga panggilan gratis per hari."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/how-to-summon-vehicles-gta-6",
+       "title": "How to summon vehicles in GTA 6 | Eurogamer.net"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/",
+       "title": "How to own more vehicles in GTA 6 | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-19T04:16:55Z"
+    }
+   ]
   },
   {
    "id": "missions",
