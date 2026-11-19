@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T19:07:01Z",
+ "updated": "2026-11-19T20:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1379,6 +1379,38 @@
     "id": "Mobil"
    },
    "items": [
+    {
+     "id": "cars-11d1b11c84",
+     "title": {
+      "en": "Manage your loadout from the car trunk",
+      "pt": "Gerencie seu equipamento pelo porta-malas do carro",
+      "es": "Gestiona tu equipamiento desde el maletero del coche",
+      "tr": "Donanımınızı aracın bagajından yönetin",
+      "ru": "Управляйте снаряжением через багажник автомобиля",
+      "id": "Kelola perlengkapan dari bagasi mobil"
+     },
+     "body": {
+      "en": "Your car is where you keep guns and outfits; open the trunk of your vehicle to manage your loadout.",
+      "pt": "Seu carro é onde você guarda armas e roupas; abra o porta-malas do seu veículo para gerenciar seu equipamento.",
+      "es": "Tu coche es donde guardas armas y atuendos; abre el maletero de tu vehículo para gestionar tu equipamiento.",
+      "tr": "Silahlarınızı ve kıyafetlerinizi arabanızda saklarsınız; donanımınızı yönetmek için aracınızın bagajını açın.",
+      "ru": "В машине хранятся оружие и одежда; откройте багажник своего транспорта, чтобы управлять снаряжением.",
+      "id": "Mobil Anda adalah tempat menyimpan senjata dan pakaian; buka bagasi kendaraan Anda untuk mengelola perlengkapan."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/",
+       "title": "How to own more vehicles in GTA 6 | GamesRadar+"
+      },
+      {
+       "url": "https://www.pcgamer.com/games/grand-theft-auto/your-gta-6-car-is-your-red-dead-2-horse-and-its-perfect/",
+       "title": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect | PC Gamer"
+      }
+     ],
+     "added": "2026-11-19T20:07:01Z"
+    },
     {
      "id": "cars-f680c8035f",
      "title": {
