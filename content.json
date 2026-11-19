@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T06:07:01Z",
+ "updated": "2026-11-19T06:40:01Z",
  "sections": [
   {
    "id": "news",
@@ -1016,38 +1016,6 @@
     "id": "Mobil"
    },
    "items": [
-    {
-     "id": "cars-e9758c708d",
-     "title": {
-      "en": "Summon or recover your car with ScooterBros",
-      "pt": "Chame ou recupere seu carro com a ScooterBros",
-      "es": "Llama o recupera tu coche con ScooterBros",
-      "tr": "ScooterBros ile arabanı çağır veya geri al",
-      "ru": "Вызовите или верните машину через ScooterBros",
-      "id": "Panggil atau ambil mobilmu dengan ScooterBros"
-     },
-     "body": {
-      "en": "Unlock the Scooter Bros app in the 'Moses' mission early in Chapter 2; summon vehicles through the app; recovering your ride costs a significant fee",
-      "pt": "Desbloqueie o app Scooter Bros na missão 'Moses' no início do Capítulo 2; chame veículos pelo app; recuperar seu veículo custa uma taxa alta",
-      "es": "Desbloquea la app Scooter Bros en la misión 'Moses' al inicio del Capítulo 2; llama vehículos desde la app; recuperar tu vehículo cuesta una tarifa considerable",
-      "tr": "Scooter Bros uygulamasını 2. Bölüm başındaki 'Moses' görevinde aç; araçları uygulama üzerinden çağır; aracını geri almak yüksek bir ücrete mal olur",
-      "ru": "Откройте приложение Scooter Bros в миссии 'Moses' в начале Главы 2; вызывайте транспорт через приложение; возврат машины стоит немало",
-      "id": "Buka aplikasi Scooter Bros di misi 'Moses' di awal Bab 2; panggil kendaraan lewat aplikasi; mengambil kendaraanmu butuh biaya besar"
-     },
-     "platform": "all",
-     "confidence": 2,
-     "sources": [
-      {
-       "url": "https://www.eurogamer.net/how-to-summon-vehicles-gta-6",
-       "title": "How to summon vehicles in GTA 6 | Eurogamer.net"
-      },
-      {
-       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/",
-       "title": "How to own more vehicles in GTA 6 | GamesRadar+"
-      }
-     ],
-     "added": "2026-11-19T04:16:55Z"
-    },
     {
      "id": "cars-f680c8035f",
      "title": {
