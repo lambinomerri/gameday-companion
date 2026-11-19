@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T01:07:01Z",
+ "updated": "2026-11-19T02:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -803,7 +803,40 @@
     "ru": "Миссии",
     "id": "Misi"
    },
-   "items": []
+   "items": [
+    {
+     "id": "missions-5db485d0e2",
+     "title": {
+      "en": "Start Hey Arnold!: Meet Brian",
+      "pt": "Iniciar Hey Arnold!: Meet Brian",
+      "es": "Iniciar Hey Arnold!: Meet Brian",
+      "tr": "Hey Arnold!'ı Başlat: Meet Brian",
+      "ru": "Начать Hey Arnold!: Meet Brian",
+      "id": "Mulai Hey Arnold!: Meet Brian"
+     },
+     "body": {
+      "en": "Select Meet Brian in the map's Story list; meet Brian at the hotel marked on your map.",
+      "pt": "Selecione Meet Brian na lista de História do mapa; encontre Brian no hotel marcado no seu mapa.",
+      "es": "Selecciona Meet Brian en la lista de Historia del mapa; reúnete con Brian en el hotel marcado en tu mapa.",
+      "tr": "Haritadaki Hikaye listesinden Meet Brian'ı seç; haritandaki işaretli otelde Brian ile buluş.",
+      "ru": "Выберите Meet Brian в списке «Сюжет» на карте; встретьтесь с Brian в отеле, отмеченном на карте.",
+      "id": "Pilih Meet Brian di daftar Cerita pada peta; temui Brian di hotel yang ditandai di peta."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/gta-6-hey-arnold-walkthrough",
+       "title": "GTA 6 Hey Arnold walkthrough | Eurogamer.net"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-hey-arnold-walkthrough-858d",
+       "title": "How to Complete Hey Arnold! in GTA 6 | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-19T02:07:01Z"
+    }
+   ]
   },
   {
    "id": "tips",
