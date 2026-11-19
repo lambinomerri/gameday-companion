@@ -757,6 +757,40 @@
    },
    "items": [
     {
+     "id": "cheats-howto",
+     "title": {
+      "en": "How to enter cheats",
+      "pt": "Como inserir cheats",
+      "es": "Cómo introducir trucos",
+      "tr": "Hileler nasıl girilir",
+      "ru": "Как вводить читы",
+      "id": "Cara memasukkan cheat"
+     },
+     "body": {
+      "en": "Press Up on the D-pad to open the phone, hold L1 and press R1 (Xbox: LB + RB), then enter the code. Each cheat unlocks in-game first. Using a cheat turns off saving.",
+      "pt": "Pressione Cima no D-pad para abrir o celular, segure L1 e pressione R1 (Xbox: LB + RB), depois digite o código. Cada cheat é desbloqueado primeiro no jogo. Usar um cheat desativa o salvamento.",
+      "es": "Pulsa Arriba en el D-pad para abrir el teléfono, mantén L1 y pulsa R1 (Xbox: LB + RB) y luego introduce el código. Cada truco se desbloquea primero en el juego. Usar un truco desactiva el guardado.",
+      "tr": "Telefonu açmak için D-pad'de Yukarı'ya bas, L1'i basılı tutup R1'e bas (Xbox: LB + RB), ardından kodu gir. Her hile önce oyun içinde açılır. Hile kullanmak kaydetmeyi kapatır.",
+      "ru": "Нажми вверх на D-pad, чтобы открыть телефон, зажми L1 и нажми R1 (Xbox: LB + RB), затем введи код. Каждый чит сначала открывается в игре. С читом сохраняться нельзя.",
+      "id": "Tekan Atas pada D-pad untuk membuka ponsel, tahan L1 lalu tekan R1 (Xbox: LB + RB), lalu masukkan kodenya. Setiap cheat harus dibuka dulu di dalam game. Memakai cheat mematikan penyimpanan."
+     },
+     "input": "",
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox"
+      }
+     ],
+     "added": "2026-11-19T05:02Z",
+     "pinned": true
+    },
+    {
      "id": "cheat-3c8be6ad5b",
      "title": {
       "en": "Body armor",
