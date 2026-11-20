@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-20T11:07:02Z",
+ "updated": "2026-11-20T12:07:02Z",
  "sections": [
   {
    "id": "news",
@@ -1300,6 +1300,74 @@
     "id": "Mobil"
    },
    "items": [
+    {
+     "id": "cars-6773e7594f",
+     "title": {
+      "en": "Register stolen cars to keep them",
+      "pt": "Registre carros roubados para ficar com eles",
+      "es": "Registra coches robados para quedártelos",
+      "tr": "Çalınan arabaları kaydedip sahip ol",
+      "ru": "Регистрируйте угнанные машины, чтобы оставить их себе",
+      "id": "Daftarkan mobil curian untuk memilikinya"
+     },
+     "body": {
+      "en": "Register stolen cars at a Pay 'n' Spray to take ownership; not possible before Chapter 2; Moses' garage at Port Gellhorn also registers them",
+      "pt": "Registre carros roubados em um Pay 'n' Spray para tomar posse; não é possível antes do Capítulo 2; a garagem de Moses em Port Gellhorn também registra",
+      "es": "Registra coches robados en un Pay 'n' Spray para tomar posesión; no es posible antes del Capítulo 2; el garaje de Moses en Port Gellhorn también los registra",
+      "tr": "Çalınan arabaları bir Pay 'n' Spray'de kaydederek sahiplen; 2. Bölüm'den önce mümkün değil; Port Gellhorn'daki Moses'in garajı da kayıt yapar",
+      "ru": "Регистрируйте угнанные машины в Pay 'n' Spray, чтобы получить владение; нельзя до Главы 2; гараж Moses в Port Gellhorn тоже регистрирует",
+      "id": "Daftarkan mobil curian di Pay 'n' Spray untuk mengambil kepemilikan; tidak bisa sebelum Bab 2; garasi Moses di Port Gellhorn juga bisa mendaftarkan"
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-how-to-keep-stolen-vehicles/",
+       "title": "How to Keep Stolen Cars in GTA 6"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/",
+       "title": "How to get Paul Walker's Fast and Furious car in GTA 6 | GamesRadar+"
+      },
+      {
+       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
+       "title": "GTA 6: How stealing cars has changed | PC Gamer"
+      }
+     ],
+     "added": "2026-11-20T12:07:02Z"
+    },
+    {
+     "id": "cars-c0c164f104",
+     "title": {
+      "en": "Tracked cars can't be registered before Chapter 3",
+      "pt": "Carros rastreados não podem ser registrados antes do Capítulo 3",
+      "es": "Los coches rastreados no se pueden registrar antes del Capítulo 3",
+      "tr": "Takipli arabalar 3. Bölüm'den önce kaydedilemez",
+      "ru": "Отслеживаемые машины нельзя регистрировать до Главы 3",
+      "id": "Mobil yang dilacak tidak bisa didaftarkan sebelum Bab 3"
+     },
+     "body": {
+      "en": "Cars with a standard or advanced tracker can't be registered; meet Randy in Chapter 3 first",
+      "pt": "Carros com rastreador padrão ou avançado não podem ser registrados; encontre Randy no Capítulo 3 primeiro",
+      "es": "Los coches con rastreador estándar o avanzado no se pueden registrar; reúnete primero con Randy en el Capítulo 3",
+      "tr": "Standart veya gelişmiş takip cihazı olan arabalar kaydedilemez; önce 3. Bölüm'de Randy ile görüş",
+      "ru": "Машины со стандартным или продвинутым трекером нельзя регистрировать; сначала встретьтесь с Randy в Главе 3",
+      "id": "Mobil dengan pelacak standar atau canggih tidak bisa didaftarkan; temui Randy di Bab 3 dulu"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-how-to-keep-stolen-vehicles/",
+       "title": "How to Keep Stolen Cars in GTA 6"
+      },
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/",
+       "title": "How to own more vehicles in GTA 6 | GamesRadar+"
+      }
+     ],
+     "added": "2026-11-20T12:07:02Z"
+    },
     {
      "id": "cars-11d1b11c84",
      "title": {
