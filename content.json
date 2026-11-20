@@ -5,31 +5,31 @@
   {
    "id": "news",
    "title": {
-    "en": "What we know",
-    "pt": "O que sabemos",
-    "es": "Lo que sabemos",
-    "tr": "Bildiklerimiz",
-    "ru": "Что известно",
-    "id": "Yang kami ketahui"
+    "en": "News",
+    "pt": "Notícias",
+    "es": "Noticias",
+    "tr": "Haberler",
+    "ru": "Новости",
+    "id": "Berita"
    },
    "items": [
     {
      "id": "news-release-date",
      "title": {
-      "en": "Release date: November 19, 2026",
-      "pt": "Data de lançamento: 19 de novembro de 2026",
-      "es": "Fecha de lanzamiento: 19 de noviembre de 2026",
-      "tr": "Çıkış tarihi: 19 Kasım 2026",
-      "ru": "Дата выхода: 19 ноября 2026 года",
-      "id": "Tanggal rilis: 19 November 2026"
+      "en": "Out now: released November 19, 2026",
+      "pt": "Já disponível: lançado em 19 de novembro de 2026",
+      "es": "Ya disponible: lanzado el 19 de noviembre de 2026",
+      "tr": "Çıktı: 19 Kasım 2026'da yayınlandı",
+      "ru": "Уже вышла: релиз 19 ноября 2026",
+      "id": "Sudah rilis: dirilis 19 November 2026"
      },
      "body": {
-      "en": "Grand Theft Auto VI comes out on Thursday, November 19, 2026. Rockstar shows this date on its official game page, and Take-Two kept it in place in its latest earnings report. The countdown on the home screen of this app counts down to that day in your device's time zone. Exact unlock times can differ by platform and region, so check your console store on the evening before.",
-      "pt": "Grand Theft Auto VI chega na quinta-feira, 19 de novembro de 2026. A Rockstar mostra essa data na página oficial do jogo, e a Take-Two manteve a data no seu último relatório de resultados. A contagem regressiva na tela inicial deste app conta até esse dia no fuso horário do seu dispositivo. Os horários exatos de liberação podem variar conforme a plataforma e a região, então verifique sua loja de console na noite anterior.",
-      "es": "Grand Theft Auto VI sale a la venta el jueves 19 de noviembre de 2026. Rockstar muestra esta fecha en su página oficial del juego, y Take-Two la mantuvo en su último informe de resultados. La cuenta regresiva de la pantalla de inicio de esta app cuenta hasta ese día según la zona horaria de tu dispositivo. Las horas exactas de desbloqueo pueden variar según la plataforma y la región, así que consulta tu tienda de consola la noche anterior.",
-      "tr": "Grand Theft Auto VI, 19 Kasım 2026 Perşembe günü çıkıyor. Rockstar bu tarihi resmi oyun sayfasında gösteriyor ve Take-Two da son kazanç raporunda bu tarihi korudu. Bu uygulamanın ana ekranındaki geri sayım, cihazınızın saat diliminde o güne doğru sayıyor. Kesin erişim saatleri platforma ve bölgeye göre değişebilir, bu yüzden çıkıştan bir önceki akşam konsol mağazanızı kontrol edin.",
-      "ru": "Grand Theft Auto VI выйдет в четверг, 19 ноября 2026 года. Rockstar указывает эту дату на своей официальной странице игры, а Take-Two сохранила её в последнем отчёте о доходах. Обратный отсчёт на главном экране этого приложения ведёт к этому дню по часовому поясу вашего устройства. Точное время открытия может различаться в зависимости от платформы и региона, поэтому проверьте консольный магазин вечером накануне.",
-      "id": "Grand Theft Auto VI rilis pada Kamis, 19 November 2026. Rockstar menampilkan tanggal ini di halaman resmi game-nya, dan Take-Two mempertahankannya dalam laporan pendapatan terbaru. Hitung mundur di layar utama aplikasi ini menghitung mundur ke hari tersebut sesuai zona waktu perangkat Anda. Waktu pembukaan yang tepat bisa berbeda tergantung platform dan wilayah, jadi periksa toko konsol Anda pada malam sebelumnya."
+      "en": "Grand Theft Auto VI came out on November 19, 2026 on PlayStation 5 and Xbox Series X|S.",
+      "pt": "Grand Theft Auto VI foi lançado em 19 de novembro de 2026 para PlayStation 5 e Xbox Series X|S.",
+      "es": "Grand Theft Auto VI salió el 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X|S.",
+      "tr": "Grand Theft Auto VI, 19 Kasım 2026'da PlayStation 5 ve Xbox Series X|S için çıktı.",
+      "ru": "Grand Theft Auto VI вышла 19 ноября 2026 года на PlayStation 5 и Xbox Series X|S.",
+      "id": "Grand Theft Auto VI rilis pada 19 November 2026 di PlayStation 5 dan Xbox Series X|S."
      },
      "platform": "all",
      "confidence": 2,
@@ -286,39 +286,6 @@
      "pinned": true
     },
     {
-     "id": "news-bonus",
-     "title": {
-      "en": "Pre-order bonus: Vintage Vice City Pack",
-      "pt": "Bônus de pré-venda: Vintage Vice City Pack",
-      "es": "Bonificación por reserva anticipada: Vintage Vice City Pack",
-      "tr": "Ön sipariş bonusu: Vintage Vice City Pack",
-      "ru": "Бонус за предзаказ: Vintage Vice City Pack",
-      "id": "Bonus pra-pesan: Vintage Vice City Pack"
-     },
-     "body": {
-      "en": "Pre-orders include the Vintage Vice City Pack. Rockstar's official page names this bonus for pre-orders. According to reports, digital pre-orders also come with a free month of GTA+, Rockstar's own membership. For the full and current list of what the pack contains, check the store page before you buy.",
-      "pt": "As pré-vendas incluem o Vintage Vice City Pack. A página oficial da Rockstar menciona esse bônus para pré-vendas. Segundo reportagens, as pré-vendas digitais também vêm com um mês grátis do GTA+, a assinatura da própria Rockstar. Para a lista completa e atualizada do que o pacote contém, consulte a página da loja antes de comprar.",
-      "es": "Las reservas anticipadas incluyen el Vintage Vice City Pack. La página oficial de Rockstar menciona esta bonificación para las reservas anticipadas. Según los informes, las reservas digitales también incluyen un mes gratis de GTA+, la membresía propia de Rockstar. Para la lista completa y actualizada del contenido del pack, consulta la página de la tienda antes de comprar.",
-      "tr": "Ön siparişler Vintage Vice City Pack'i içeriyor. Rockstar'ın resmi sayfası, ön siparişler için bu bonusu belirtiyor. Haberlere göre dijital ön siparişlerle birlikte Rockstar'ın kendi üyeliği olan GTA+'ın bir aylık ücretsiz kullanımı da geliyor. Paketin içeriğinin tam ve güncel listesi için satın almadan önce mağaza sayfasını kontrol edin.",
-      "ru": "При предзаказе входит Vintage Vice City Pack. Официальная страница Rockstar называет этот бонус для предзаказов. По сообщениям, цифровые предзаказы также включают бесплатный месяц GTA+, собственной подписки Rockstar. Полный и актуальный список содержимого пакета проверьте на странице в магазине перед покупкой.",
-      "id": "Pra-pesan menyertakan Vintage Vice City Pack. Halaman resmi Rockstar menyebutkan bonus ini untuk pra-pesan. Menurut laporan, pra-pesan digital juga mendapat satu bulan gratis GTA+, keanggotaan resmi Rockstar. Untuk daftar lengkap dan terbaru isi paket, periksa halaman toko sebelum membeli."
-     },
-     "platform": "all",
-     "confidence": 2,
-     "sources": [
-      {
-       "url": "https://www.rockstargames.com/VI",
-       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
-      },
-      {
-       "url": "https://techradar.com/gaming/gta-6-pre-orders-go-live-at-midnight-local-time-as-rockstar-unveils-the-ultimate-edition-that-amplifies-the-experience-with-exclusive-items",
-       "title": "TechRadar — pre-orders and Ultimate Edition"
-      }
-     ],
-     "added": "2026-11-11T00:00Z",
-     "pinned": true
-    },
-    {
      "id": "news-boxed",
      "title": {
       "en": "Boxed copies contain a download code",
@@ -346,47 +313,6 @@
       {
        "url": "https://techradar.com/gaming/gta-6-pre-orders-go-live-at-midnight-local-time-as-rockstar-unveils-the-ultimate-edition-that-amplifies-the-experience-with-exclusive-items",
        "title": "TechRadar — pre-orders and Ultimate Edition"
-      }
-     ],
-     "added": "2026-11-11T00:00Z",
-     "pinned": true
-    },
-    {
-     "id": "news-preload",
-     "title": {
-      "en": "Pre-load started November 10",
-      "pt": "Pré-download começou em 10 de novembro",
-      "es": "La precarga comenzó el 10 de noviembre",
-      "tr": "Ön yükleme 10 Kasım'da başladı",
-      "ru": "Предзагрузка стартовала 10 ноября",
-      "id": "Pra-unduh dimulai 10 November"
-     },
-     "body": {
-      "en": "Rockstar announced on November 3, 2026 that pre-loading for digital pre-orders begins on November 10, and on November 10 it posted that pre-loading is now open. Reports on the announcement say the download is up to 212 GB, depending on the console. Some earlier reports named November 12; the official date is November 10.",
-      "pt": "A Rockstar anunciou em 3 de novembro de 2026 que o pré-download para pré-vendas digitais começa em 10 de novembro, e em 10 de novembro publicou que o pré-download já está aberto. Reportagens sobre o anúncio dizem que o download chega a 212 GB, dependendo do console. Algumas reportagens anteriores citaram 12 de novembro; a data oficial é 10 de novembro.",
-      "es": "Rockstar anunció el 3 de noviembre de 2026 que la precarga para las reservas anticipadas digitales empezaría el 10 de noviembre, y el 10 de noviembre publicó que la precarga ya estaba disponible. Los informes sobre el anuncio indican que la descarga ocupa hasta 212 GB, según la consola. Algunos informes anteriores mencionaron el 12 de noviembre; la fecha oficial es el 10 de noviembre.",
-      "tr": "Rockstar, 3 Kasım 2026'da dijital ön siparişler için ön yüklemenin 10 Kasım'da başlayacağını duyurdu ve 10 Kasım'da ön yüklemenin artık açık olduğunu paylaştı. Duyuruya ilişkin haberler, indirmenin konsola bağlı olarak 212 GB'a kadar çıktığını belirtiyor. Daha önceki bazı haberler 12 Kasım'ı belirtmişti; resmi tarih 10 Kasım.",
-      "ru": "Rockstar объявила 3 ноября 2026 года, что предзагрузка для цифровых предзаказов начнётся 10 ноября, а 10 ноября опубликовала сообщение, что предзагрузка уже открыта. По сообщениям об анонсе, загрузка занимает до 212 GB в зависимости от консоли. В некоторых более ранних сообщениях называлось 12 ноября, но официальная дата: 10 ноября.",
-      "id": "Rockstar mengumumkan pada 3 November 2026 bahwa pra-unduh untuk pra-pesan digital dimulai pada 10 November, dan pada 10 November mereka memposting bahwa pra-unduh kini dibuka. Laporan tentang pengumuman tersebut menyebutkan unduhan mencapai 212 GB, tergantung konsol. Beberapa laporan sebelumnya menyebut 12 November; tanggal resminya adalah 10 November."
-     },
-     "platform": "all",
-     "confidence": 4,
-     "sources": [
-      {
-       "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712",
-       "title": "Rockstar Newswire — Pre-Load Begins on November 10 (2026-11-03)"
-      },
-      {
-       "url": "https://www.rockstargames.com/newswire/article/89834o94713o21",
-       "title": "Rockstar Newswire — Pre-Load Grand Theft Auto VI Now (2026-11-10)"
-      },
-      {
-       "url": "https://techradar.com/gaming/gta-6-digital-pre-loads-for-ps5-and-xbox-will-begin-9-days-early-and-require-a-whopping-212gb-of-free-space",
-       "title": "TechRadar — pre-loads, 212GB"
-      },
-      {
-       "url": "https://gamesradar.com/games/grand-theft-auto/rockstar-confirms-gta-6-is-212gb-pre-loading-opens-earlier-than-previously-announced-for-digital-orders",
-       "title": "GamesRadar — 212GB, pre-load earlier"
       }
      ],
      "added": "2026-11-11T00:00Z",
@@ -508,30 +434,30 @@
      "id": "faq-faq-cheats",
      "title": {
       "en": "Does GTA 6 have cheat codes?",
-      "pt": "O GTA 6 tem códigos de trapaça?",
-      "es": "¿GTA 6 tiene códigos de trucos?",
+      "pt": "GTA 6 tem códigos de trapaça?",
+      "es": "¿GTA 6 tiene trucos?",
       "tr": "GTA 6'da hile kodları var mı?",
       "ru": "Есть ли в GTA 6 чит-коды?",
-      "id": "Apakah GTA 6 punya kode curang?"
+      "id": "Apakah GTA 6 punya kode cheat?"
      },
      "body": {
-      "en": "Rockstar has not announced or confirmed any cheat codes for GTA 6. Lists of GTA 6 codes that you may see online before release are not confirmed, and many of them are copied from older games. This app will add codes only after they are confirmed in the released game by at least two independent sources.",
-      "pt": "A Rockstar não anunciou nem confirmou nenhum código de trapaça para o GTA 6. As listas de códigos do GTA 6 que você pode encontrar na internet antes do lançamento não são confirmadas, e muitas delas são copiadas de jogos mais antigos. Este app só vai adicionar códigos depois que forem confirmados no jogo lançado por pelo menos duas fontes independentes.",
-      "es": "Rockstar no ha anunciado ni confirmado ningún código de trucos para GTA 6. Las listas de códigos de GTA 6 que puedes encontrar en internet antes del lanzamiento no están confirmadas, y muchas se copian de juegos anteriores. Esta app añadirá códigos solo cuando al menos dos fuentes independientes los confirmen en el juego lanzado.",
-      "tr": "Rockstar, GTA 6 için herhangi bir hile kodu duyurmadı veya doğrulamadı. Çıkıştan önce internette görebileceğiniz GTA 6 kodu listeleri doğrulanmış değil ve birçoğu eski oyunlardan kopyalanmış. Bu uygulama, kodlar yayımlanmış oyunda en az iki bağımsız kaynak tarafından doğrulandıktan sonra kodları ekleyecek.",
-      "ru": "Rockstar не анонсировала и не подтвердила никаких чит-кодов для GTA 6. Списки кодов для GTA 6, которые можно встретить в интернете до выхода, не подтверждены, и многие из них скопированы из старых игр. Это приложение добавит коды только после того, как их подтвердят в выпущенной игре как минимум два независимых источника.",
-      "id": "Rockstar belum mengumumkan atau mengonfirmasi kode curang apa pun untuk GTA 6. Daftar kode GTA 6 yang mungkin Anda temukan online sebelum rilis belum terkonfirmasi, dan banyak di antaranya disalin dari game lama. Aplikasi ini hanya akan menambahkan kode setelah dikonfirmasi di game yang sudah dirilis oleh setidaknya dua sumber independen."
+      "en": "Yes. Press Up on the D-pad to open the phone, hold L1 and press R1 (Xbox: LB + RB), then enter the code. Each cheat unlocks in-game first; using one turns off saving and trophies. Verified codes are in the Cheats section.",
+      "pt": "Sim. Pressione Cima no D-pad para abrir o celular, segure L1 e pressione R1 (Xbox: LB + RB) e digite o código. Cada cheat é desbloqueado primeiro no jogo; usar um desativa o salvamento e os troféus. Os códigos verificados estão na seção Códigos.",
+      "es": "Sí. Pulsa Arriba en la cruceta para abrir el teléfono, mantén L1 y pulsa R1 (Xbox: LB + RB) e introduce el código. Cada truco se desbloquea antes en el juego; usar uno desactiva el guardado y los trofeos. Los códigos verificados están en la sección Trucos.",
+      "tr": "Evet. Telefonu açmak için D-pad'de Yukarı'ya basın, L1'i basılı tutup R1'e basın (Xbox: LB + RB), ardından kodu girin. Her hile önce oyun içinde açılır; hile kullanmak kaydetmeyi ve kupaları kapatır. Doğrulanmış kodlar Hileler bölümünde.",
+      "ru": "Да. Нажмите «вверх» на крестовине, чтобы открыть телефон, зажмите L1 и нажмите R1 (Xbox: LB + RB), затем введите код. Каждый чит сначала открывается в игре; с читом отключаются сохранения и трофеи. Проверенные коды — в разделе «Коды».",
+      "id": "Ya. Tekan Atas di D-pad untuk membuka ponsel, tahan L1 lalu tekan R1 (Xbox: LB + RB), lalu masukkan kode. Setiap cheat harus dibuka dulu di dalam game; memakai cheat mematikan penyimpanan dan trofi. Kode yang terverifikasi ada di bagian Cheat."
      },
      "platform": "all",
      "confidence": 2,
      "sources": [
       {
-       "url": "https://www.rockstargames.com/VI",
-       "title": "Rockstar Games — Grand Theft Auto VI (official site, checked 2026-11-11)"
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
       },
       {
-       "url": "https://gamesradar.com/games/grand-theft-auto/gta-6-publisher-says-it-isnt-complicated-for-us-to-support-pc-and-great-cool-so-wheres-that-gta-6-pc-announcement",
-       "title": "GamesRadar — no PC announcement"
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox"
       }
      ],
      "added": "2026-11-11T00:00Z",
@@ -598,43 +524,6 @@
       {
        "url": "https://www.dexerto.com/gta/gta-6-price-ultimate-edition-pre-orders-live-3378744/",
        "title": "Dexerto — price, Ultimate Edition"
-      },
-      {
-       "url": "https://www.tweaktown.com/news/112341/rockstar-confirms-gta-6s-price-no-physical-disc-version/index.html",
-       "title": "TweakTown — price, no disc in boxed copies"
-      }
-     ],
-     "added": "2026-11-11T00:00Z",
-     "pinned": true
-    },
-    {
-     "id": "faq-faq-preload",
-     "title": {
-      "en": "When can I pre-load?",
-      "pt": "Quando posso fazer o pré-download?",
-      "es": "¿Cuándo puedo hacer la precarga?",
-      "tr": "Ne zaman ön yükleme yapabilirim?",
-      "ru": "Когда можно сделать предзагрузку?",
-      "id": "Kapan saya bisa pra-unduh?"
-     },
-     "body": {
-      "en": "Rockstar says pre-loading for digital pre-orders started on November 10, 2026. You need a digital pre-order on PS5 or Xbox Series X|S. Boxed copies contain a download code, so the download can start only after you redeem the code.",
-      "pt": "A Rockstar informa que o pré-download para pré-vendas digitais começou em 10 de novembro de 2026. Você precisa de uma pré-venda digital no PS5 ou no Xbox Series X|S. As cópias físicas contêm um código de download, então o download só pode começar depois que você resgatar o código.",
-      "es": "Rockstar indica que la precarga para las reservas anticipadas digitales comenzó el 10 de noviembre de 2026. Necesitas una reserva anticipada digital en PS5 o Xbox Series X|S. Las copias físicas incluyen un código de descarga, así que la descarga solo puede empezar después de canjear el código.",
-      "tr": "Rockstar, dijital ön sipariş için ön yüklemenin 10 Kasım 2026'da başladığını söylüyor. PS5 veya Xbox Series X|S için dijital bir ön siparişiniz olmalı. Kutulu kopyalar bir indirme kodu içerir, bu yüzden indirme ancak kodu kullandıktan sonra başlayabilir.",
-      "ru": "Rockstar сообщает, что предзагрузка для цифровых предзаказов началась 10 ноября 2026 года. Нужен цифровой предзаказ на PS5 или Xbox Series X|S. Коробочные копии содержат код загрузки, поэтому загрузка может начаться только после активации кода.",
-      "id": "Rockstar menyatakan bahwa pra-unduh untuk pra-pesan digital dimulai pada 10 November 2026. Anda memerlukan pra-pesan digital di PS5 atau Xbox Series X|S. Salinan fisik berisi kode unduh, sehingga unduhan hanya bisa dimulai setelah Anda menukarkan kode tersebut."
-     },
-     "platform": "all",
-     "confidence": 3,
-     "sources": [
-      {
-       "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712",
-       "title": "Rockstar Newswire — Pre-Load Begins on November 10 (2026-11-03)"
-      },
-      {
-       "url": "https://www.rockstargames.com/newswire/article/89834o94713o21",
-       "title": "Rockstar Newswire — Pre-Load Grand Theft Auto VI Now (2026-11-10)"
       },
       {
        "url": "https://www.tweaktown.com/news/112341/rockstar-confirms-gta-6s-price-no-physical-disc-version/index.html",
@@ -1557,12 +1446,12 @@
   {
    "id": "tips",
    "title": {
-    "en": "Release day prep",
-    "pt": "Preparação para o dia do lançamento",
-    "es": "Preparativos para el día del lanzamiento",
-    "tr": "Çıkış günü hazırlığı",
-    "ru": "Подготовка к дню выхода",
-    "id": "Persiapan di hari rilis"
+    "en": "Tips",
+    "pt": "Dicas",
+    "es": "Consejos",
+    "tr": "İpuçları",
+    "ru": "Советы",
+    "id": "Tips"
    },
    "items": [
     {
@@ -1576,12 +1465,12 @@
       "id": "Kosongkan sekitar 212 GB"
      },
      "body": {
-      "en": "The reported download is up to 212 GB. Before release day, delete or move games you are not playing, or move them to external storage. On PS5 and Xbox Series X|S, external drives can store games, but whether you can play from them depends on the console, so check your console's settings.",
-      "pt": "O download informado chega a 212 GB. Antes do dia do lançamento, apague ou mova os jogos que você não está jogando, ou transfira-os para um armazenamento externo. No PS5 e no Xbox Series X|S, drives externos podem armazenar jogos, mas a possibilidade de jogar a partir deles depende do console, então verifique as configurações do seu console.",
-      "es": "La descarga informada es de hasta 212 GB. Antes del día del lanzamiento, borra o traslada los juegos que no estés jugando, o muévelos a almacenamiento externo. En PS5 y Xbox Series X|S, las unidades externas pueden guardar juegos, pero si puedes jugar desde ellas depende de la consola, así que revisa la configuración de tu consola.",
-      "tr": "Bildirilen indirme boyutu 212 GB'a kadar. Çıkış gününden önce oynamadığınız oyunları silin veya taşıyın ya da harici depolama alanına aktarın. PS5 ve Xbox Series X|S'te harici sürücüler oyunları saklayabilir, ancak bunlardan oynayıp oynayamayacağınız konsola bağlı; konsolunuzun ayarlarını kontrol edin.",
-      "ru": "Сообщаемая загрузка до 212 GB. Перед днём выхода удалите или перенесите игры, в которые не играете, либо переместите их на внешний накопитель. На PS5 и Xbox Series X|S внешние диски могут хранить игры, но возможность играть с них зависит от консоли, поэтому проверьте настройки вашей консоли.",
-      "id": "Unduhan yang dilaporkan mencapai 212 GB. Sebelum hari rilis, hapus atau pindahkan game yang tidak Anda mainkan, atau pindahkan ke penyimpanan eksternal. Di PS5 dan Xbox Series X|S, drive eksternal dapat menyimpan game, tetapi apakah game bisa dimainkan dari sana tergantung konsol, jadi periksa pengaturan konsol Anda."
+      "en": "The reported download is up to 212 GB. Before downloading, delete or move games you are not playing, or move them to external storage. On PS5 and Xbox Series X|S, external drives can store games, but whether you can play from them depends on the console, so check your console's settings.",
+      "pt": "O download informado chega a 212 GB. Antes de baixar, apague ou mova os jogos que você não está jogando, ou transfira-os para um armazenamento externo. No PS5 e no Xbox Series X|S, drives externos podem armazenar jogos, mas a possibilidade de jogar a partir deles depende do console, então verifique as configurações do seu console.",
+      "es": "La descarga informada es de hasta 212 GB. Antes de descargar, borra o traslada los juegos que no estés jugando, o muévelos a almacenamiento externo. En PS5 y Xbox Series X|S, las unidades externas pueden guardar juegos, pero si puedes jugar desde ellas depende de la consola, así que revisa la configuración de tu consola.",
+      "tr": "Bildirilen indirme boyutu 212 GB'a kadar. İndirmeden önce oynamadığınız oyunları silin veya taşıyın ya da harici depolama alanına aktarın. PS5 ve Xbox Series X|S'te harici sürücüler oyunları saklayabilir, ancak bunlardan oynayıp oynayamayacağınız konsola bağlı; konsolunuzun ayarlarını kontrol edin.",
+      "ru": "Сообщаемая загрузка до 212 GB. Перед загрузкой удалите или перенесите игры, в которые не играете, либо переместите их на внешний накопитель. На PS5 и Xbox Series X|S внешние диски могут хранить игры, но возможность играть с них зависит от консоли, поэтому проверьте настройки вашей консоли.",
+      "id": "Unduhan yang dilaporkan mencapai 212 GB. Sebelum mengunduh, hapus atau pindahkan game yang tidak Anda mainkan, atau pindahkan ke penyimpanan eksternal. Di PS5 dan Xbox Series X|S, drive eksternal dapat menyimpan game, tetapi apakah game bisa dimainkan dari sana tergantung konsol, jadi periksa pengaturan konsol Anda."
      },
      "platform": "all",
      "confidence": 2,
@@ -1593,105 +1482,6 @@
       {
        "url": "https://gamesradar.com/games/grand-theft-auto/rockstar-confirms-gta-6-is-212gb-pre-loading-opens-earlier-than-previously-announced-for-digital-orders",
        "title": "GamesRadar — 212GB, pre-load earlier"
-      }
-     ],
-     "added": "2026-11-11T00:00Z",
-     "pinned": true
-    },
-    {
-     "id": "tips-prep-preload",
-     "title": {
-      "en": "Pre-load if you bought digitally",
-      "pt": "Faça o pré-download se comprou digitalmente",
-      "es": "Haz la precarga si compraste en digital",
-      "tr": "Dijital satın aldıysanız ön yükleme yapın",
-      "ru": "Сделайте предзагрузку, если покупали цифровую версию",
-      "id": "Pra-unduh jika Anda membeli secara digital"
-     },
-     "body": {
-      "en": "Digital pre-orders can pre-load from November 10, 2026. Start early: a download of this size can take many hours. Leave the console in rest mode so the download can continue.",
-      "pt": "Pré-vendas digitais podem fazer o pré-download a partir de 10 de novembro de 2026. Comece cedo: um download desse tamanho pode levar muitas horas. Deixe o console em modo de repouso para que o download continue.",
-      "es": "Las reservas anticipadas digitales pueden hacer la precarga desde el 10 de noviembre de 2026. Empieza pronto: una descarga de este tamaño puede tardar muchas horas. Deja la consola en modo de reposo para que la descarga pueda continuar.",
-      "tr": "Dijital ön siparişler 10 Kasım 2026'dan itibaren ön yüklenebilir. Erken başlayın: bu boyuttaki bir indirme birkaç saat sürebilir. İndirmenin devam edebilmesi için konsolunuzu dinlenme modunda bırakın.",
-      "ru": "Цифровые предзаказы можно предзагрузить с 10 ноября 2026 года. Начните заранее: загрузка такого объёма может занять много часов. Оставьте консоль в режиме ожидания, чтобы загрузка продолжалась.",
-      "id": "Pra-pesan digital bisa pra-unduh mulai 10 November 2026. Mulailah lebih awal: unduhan sebesar ini bisa memakan waktu berjam-jam. Biarkan konsol dalam mode istirahat agar unduhan bisa terus berjalan."
-     },
-     "platform": "all",
-     "confidence": 2,
-     "sources": [
-      {
-       "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712",
-       "title": "Rockstar Newswire — Pre-Load Begins on November 10 (2026-11-03)"
-      },
-      {
-       "url": "https://www.rockstargames.com/newswire/article/89834o94713o21",
-       "title": "Rockstar Newswire — Pre-Load Grand Theft Auto VI Now (2026-11-10)"
-      }
-     ],
-     "added": "2026-11-11T00:00Z",
-     "pinned": true
-    },
-    {
-     "id": "tips-prep-code",
-     "title": {
-      "en": "Redeem a boxed copy's code early",
-      "pt": "Resgate logo o código de uma cópia física",
-      "es": "Canjea pronto el código de una copia física",
-      "tr": "Kutulu kopyanın kodunu erken kullanın",
-      "ru": "Активируйте код коробочной версии заранее",
-      "id": "Tukarkan kode salinan fisik lebih awal"
-     },
-     "body": {
-      "en": "Boxed copies contain a download code instead of a disc. Redeem the code as soon as you have the box, so that the download can start before launch day.",
-      "pt": "Cópias físicas contêm um código de download em vez de disco. Resgate o código assim que tiver a caixa, para que o download possa começar antes do dia do lançamento.",
-      "es": "Las copias físicas incluyen un código de descarga en lugar de disco. Canjea el código en cuanto tengas la caja, para que la descarga pueda empezar antes del día del lanzamiento.",
-      "tr": "Kutulu kopyalar disk yerine bir indirme kodu içerir. Kutuyu elinize alır almaz kodu kullanın, böylece indirme çıkış gününden önce başlayabilsin.",
-      "ru": "Коробочные копии содержат код загрузки вместо диска. Активируйте код, как только получите коробку, чтобы загрузка могла начаться до дня выхода.",
-      "id": "Salinan fisik berisi kode unduh, bukan disk. Tukarkan kode segera setelah Anda memiliki kotaknya, agar unduhan bisa dimulai sebelum hari rilis."
-     },
-     "platform": "all",
-     "confidence": 2,
-     "sources": [
-      {
-       "url": "https://www.tweaktown.com/news/112341/rockstar-confirms-gta-6s-price-no-physical-disc-version/index.html",
-       "title": "TweakTown — price, no disc in boxed copies"
-      },
-      {
-       "url": "https://techradar.com/gaming/gta-6-pre-orders-go-live-at-midnight-local-time-as-rockstar-unveils-the-ultimate-edition-that-amplifies-the-experience-with-exclusive-items",
-       "title": "TechRadar — pre-orders and Ultimate Edition"
-      }
-     ],
-     "added": "2026-11-11T00:00Z",
-     "pinned": true
-    },
-    {
-     "id": "tips-prep-update",
-     "title": {
-      "en": "Update your console and keep it online",
-      "pt": "Atualize seu console e mantenha-o conectado",
-      "es": "Actualiza tu consola y mantenla conectada",
-      "tr": "Konsolunuzu güncelleyin ve internete bağlı tutun",
-      "ru": "Обновите консоль и держите её в сети",
-      "id": "Perbarui konsol dan tetap terhubung internet"
-     },
-     "body": {
-      "en": "Before launch, install the latest system update and keep an internet connection. A digital game of this size and any day-one update both need to be downloaded.",
-      "pt": "Antes do lançamento, instale a versão mais recente do sistema e mantenha a conexão com a internet. Um jogo digital desse tamanho e qualquer atualização do primeiro dia precisam ser baixados.",
-      "es": "Antes del lanzamiento, instala la última actualización del sistema y mantén la conexión a internet. Un juego digital de este tamaño y cualquier actualización del primer día deben descargarse.",
-      "tr": "Çıkıştan önce en son sistem güncellemesini yükleyin ve bir internet bağlantısı açık tutun. Bu boyuttaki dijital bir oyun ve çıkış günü güncellemesi indirilmek zorunda.",
-      "ru": "Перед выходом установите последнее системное обновление и поддерживайте подключение к интернету. Цифровую игру такого размера и любое обновление в день выхода нужно будет загрузить.",
-      "id": "Sebelum rilis, pasang pembaruan sistem terbaru dan tetap terhubung ke internet. Game digital berukuran besar dan pembaruan hari pertama apa pun keduanya perlu diunduh."
-     },
-     "platform": "all",
-     "confidence": 2,
-     "sources": [
-      {
-       "url": "https://www.rockstargames.com/newswire/article/89834o94713o21",
-       "title": "Rockstar Newswire — Pre-Load Grand Theft Auto VI Now (2026-11-10)"
-      },
-      {
-       "url": "https://techradar.com/gaming/gta-6-digital-pre-loads-for-ps5-and-xbox-will-begin-9-days-early-and-require-a-whopping-212gb-of-free-space",
-       "title": "TechRadar — pre-loads, 212GB"
       }
      ],
      "added": "2026-11-11T00:00Z",
