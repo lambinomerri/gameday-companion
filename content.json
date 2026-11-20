@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-20T18:07:02Z",
+ "updated": "2026-11-20T18:31:58Z",
  "sections": [
   {
    "id": "news",
@@ -756,6 +756,39 @@
      "input": "UP, RIGHT, DOWN, LEFT, UP, LEFT, DOWN, RIGHT"
     },
     {
+     "id": "cheat-d8083f4e33",
+     "title": {
+      "en": "Raise wanted level",
+      "pt": "Aumentar nível de procurado",
+      "es": "Aumentar nivel de búsqueda",
+      "tr": "Arananlık seviyesini artır",
+      "ru": "Повысить уровень розыска",
+      "id": "Naikkan tingkat buronan"
+     },
+     "body": {
+      "en": "Unlock: lose a 3-star wanted level 50 times. Raises your wanted level.",
+      "pt": "Desbloqueio: perca um nível de procurado de 3 estrelas 50 vezes. Aumenta seu nível de procurado.",
+      "es": "Desbloqueo: pierde un nivel de búsqueda de 3 estrellas 50 veces. Aumenta tu nivel de búsqueda.",
+      "tr": "Kilit açma: 3 yıldızlı arananlık seviyesini 50 kez kaybet. Arananlık seviyeni artırır.",
+      "ru": "Открытие: 50 раз потеряйте 3-звёздочный уровень розыска. Повышает ваш уровень розыска.",
+      "id": "Buka: kehilangan tingkat buronan 3 bintang sebanyak 50 kali. Menaikkan tingkat buronanmu."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
+      },
+      {
+       "url": "https://gtaboom.com/gta-6-cheats-9nd6",
+       "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-20T18:31:58Z",
+     "input": "LEFT, DOWN, RIGHT, DOWN, UP, RIGHT, UP"
+    },
+    {
      "id": "cheat-0253aaf236",
      "title": {
       "en": "Unlimited Focus",
@@ -861,6 +894,43 @@
      ],
      "added": "2026-11-19T15:21:28Z",
      "input": "DOWN, UP, LEFT, LEFT, RIGHT, DOWN, DOWN, UP, RIGHT"
+    },
+    {
+     "id": "cheat-c4e3b8dfbd",
+     "title": {
+      "en": "Infinite ammo",
+      "pt": "Munição infinita",
+      "es": "Munición infinita",
+      "tr": "Sonsuz mermi",
+      "ru": "Бесконечные патроны",
+      "id": "Amunisi tak terbatas"
+     },
+     "body": {
+      "en": "Unlock: win 25 silver medals or better at Shooting Ranges. Your ammo never runs out.",
+      "pt": "Desbloqueio: conquiste 25 medalhas de prata ou superior nos Shooting Ranges. Sua munição nunca acaba.",
+      "es": "Desbloqueo: gana 25 medallas de plata o superiores en los Shooting Ranges. Tu munición nunca se agota.",
+      "tr": "Kilit açma: Shooting Ranges'de 25 veya daha iyi gümüş madalya kazan. Mermilerin asla bitmez.",
+      "ru": "Открытие: получите 25 или больше серебряных медалей в Shooting Ranges. Патроны никогда не кончаются.",
+      "id": "Buka: raih 25 medali perak atau lebih baik di Shooting Ranges. Amunisimu tidak akan pernah habis."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
+      },
+      {
+       "url": "https://gtaboom.com/gta-6-cheats-9nd6",
+       "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-20T18:31:58Z",
+     "input": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, DOWN, DOWN, DOWN"
     },
     {
      "id": "cheat-0cdd0731d5",
@@ -1094,6 +1164,43 @@
      ],
      "added": "2026-11-19T15:21:28Z",
      "input": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, RIGHT, RIGHT"
+    },
+    {
+     "id": "cheat-9562dfdc26",
+     "title": {
+      "en": "Cycle weather",
+      "pt": "Mudar o clima",
+      "es": "Cambiar el clima",
+      "tr": "Hava durumunu değiştir",
+      "ru": "Смена погоды",
+      "id": "Ganti cuaca"
+     },
+     "body": {
+      "en": "Unlock: complete the main story. Switches to the next weather condition.",
+      "pt": "Desbloqueio: concluir a história principal. Muda para a próxima condição climática.",
+      "es": "Desbloqueo: completa la historia principal. Cambia a la siguiente condición climática.",
+      "tr": "Kilit açma: ana hikayeyi tamamla. Bir sonraki hava koşuluna geçer.",
+      "ru": "Открытие: пройдите основной сюжет. Переключает на следующие погодные условия.",
+      "id": "Buka: selesaikan cerita utama. Beralih ke kondisi cuaca berikutnya."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+       "title": "All GTA 6 Cheats & How to Unlock Them"
+      },
+      {
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
+      },
+      {
+       "url": "https://gtaboom.com/gta-6-cheats-9nd6",
+       "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-20T18:31:58Z",
+     "input": "DOWN, RIGHT, UP, DOWN, RIGHT, UP, RIGHT"
     },
     {
      "id": "cheat-ea7e27e976",
