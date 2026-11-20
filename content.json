@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-20T09:07:02Z",
+ "updated": "2026-11-20T10:07:02Z",
  "sections": [
   {
    "id": "news",
@@ -1219,6 +1219,38 @@
     "id": "Senjata"
    },
    "items": [
+    {
+     "id": "weapons-b59d281d3b",
+     "title": {
+      "en": "Free unique Silenced Pistol from a boat near Southwind",
+      "pt": "Pistola Silenciada única grátis de um barco perto de Southwind",
+      "es": "Pistola Silenciada única gratis de un barco cerca de Southwind",
+      "tr": "Southwind yakınındaki bir tekneden ücretsiz benzersiz Susturuculu Tabanca",
+      "ru": "Бесплатный уникальный Глушитель-пистолет с лодки возле Southwind",
+      "id": "Pistol Silencer unik gratis dari perahu dekat Southwind"
+     },
+     "body": {
+      "en": "Head west of your start, past Abismo Key, toward Southwind; scan the boat on the sand with the WAiNK app; open the compartment to get the pistol free",
+      "pt": "Vá para oeste do início, passando por Abismo Key, em direção a Southwind; escaneie o barco na areia com o app WAiNK; abra o compartimento para pegar a pistola grátis",
+      "es": "Dirígete al oeste del inicio, pasando Abismo Key, hacia Southwind; escanea el barco en la arena con la app WAiNK; abre el compartimento para obtener la pistola gratis",
+      "tr": "Başlangıç noktanın batısına, Abismo Key'in yanından Southwind'e doğru git; kumdaki tekneyi WAiNK uygulamasıyla tara; bölmeyi aç ve tabancayı ücretsiz al",
+      "ru": "Двигайтесь на запад от старта, мимо Abismo Key, к Southwind; отсканируйте лодку на песке приложением WAiNK; откройте отсек, чтобы бесплатно получить пистолет",
+      "id": "Pergi ke barat dari start, melewati Abismo Key, menuju Southwind; pindai perahu di pasir dengan aplikasi WAiNK; buka kompartemen untuk mendapatkan pistol gratis"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-how-get-silenced-pistol-assassin-nipper-38-unique-legendary-weapon/",
+       "title": "How to Get the Silenced Pistol Early in GTA 6"
+      },
+      {
+       "url": "https://www.thegamer.com/gta-6-legendary-assassins-pistol-unlock-guide-how-to-find-best-starting-weapon/",
+       "title": "How To Unlock The Legendary Assassin's Pistol In GTA 6"
+      }
+     ],
+     "added": "2026-11-20T10:07:02Z"
+    },
     {
      "id": "weapons-d88e0135c7",
      "title": {
