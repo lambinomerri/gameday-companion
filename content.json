@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-20T12:07:02Z",
+ "updated": "2026-11-20T13:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1300,6 +1300,38 @@
     "id": "Mobil"
    },
    "items": [
+    {
+     "id": "cars-628c3f8840",
+     "title": {
+      "en": "Get the Slim Jim from Moses",
+      "pt": "Pegue o Slim Jim com Moses",
+      "es": "Consigue la Slim Jim con Moses",
+      "tr": "Moses'tan Slim Jim'i Al",
+      "ru": "Получите Slim Jim у Мозеса",
+      "id": "Dapatkan Slim Jim dari Moses"
+     },
+     "body": {
+      "en": "Reach Chapter 2; Moses gives you a Slim Jim; use it to cleanly break into more vehicles",
+      "pt": "Alcance o Capítulo 2; Moses lhe dá um Slim Jim; use-o para arrombar outros veículos com facilidade",
+      "es": "Llega al Capítulo 2; Moses te da una Slim Jim; úsala para forzar otros vehículos sin problemas",
+      "tr": "2. Bölüme ulaş; Moses sana bir Slim Jim verir; daha fazla aracın kilidini temiz bir şekilde açmak için kullan",
+      "ru": "Дойдите до Главы 2; Мозес даст вам Slim Jim; используйте её, чтобы аккуратно вскрывать другие машины",
+      "id": "Capai Chapter 2; Moses memberimu Slim Jim; gunakan untuk membobol kendaraan lain dengan rapi"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/",
+       "title": "How to get Paul Walker's Fast and Furious car in GTA 6 | GamesRadar+"
+      },
+      {
+       "url": "https://www.thegamer.com/gta-6-stolen-vehicle-register-own-how-to-complete-guide/",
+       "title": "How To Register Vehicles And Get A Slim Jim In GTA 6"
+      }
+     ],
+     "added": "2026-11-20T13:07:01Z"
+    },
     {
      "id": "cars-6773e7594f",
      "title": {
