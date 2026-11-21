@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-21T09:07:01Z",
+ "updated": "2026-11-21T12:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -754,6 +754,39 @@
      ],
      "added": "2026-11-19T04:16:55Z",
      "input": "UP, RIGHT, DOWN, LEFT, UP, LEFT, DOWN, RIGHT"
+    },
+    {
+     "id": "cheat-d22943e922",
+     "title": {
+      "en": "Get drunk",
+      "pt": "Ficar bêbado",
+      "es": "Emborracharse",
+      "tr": "Sarhoş ol",
+      "ru": "Напиться",
+      "id": "Mabuk"
+     },
+     "body": {
+      "en": "Unlock by spending $2,500 on alcohol. Makes you and your partner drunk.",
+      "pt": "Desbloqueie gastando $2,500 em álcool. Deixa você e seu parceiro bêbados.",
+      "es": "Desbloquea gastando $2,500 en alcohol. Emborracha a ti y a tu pareja.",
+      "tr": "$2,500 alkole harcayarak kilidini aç. Seni ve partnerini sarhoş eder.",
+      "ru": "Открывается при расходе $2,500 на алкоголь. Делает вас и вашего партнёра пьяными.",
+      "id": "Buka dengan menghabiskan $2,500 untuk alkohol. Membuat kamu dan pasanganmu mabuk."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
+      },
+      {
+       "url": "https://gtaboom.com/gta-6-cheats-9nd6",
+       "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-21T12:07:01Z",
+     "input": "UP, LEFT, RIGHT, UP, UP, LEFT, RIGHT, UP, LEFT, RIGHT"
     },
     {
      "id": "cheat-d8083f4e33",
