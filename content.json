@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-21T00:07:01Z",
+ "updated": "2026-11-21T03:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1758,6 +1758,38 @@
      ],
      "added": "2026-11-11T00:00Z",
      "pinned": true
+    },
+    {
+     "id": "tips-db1c20cbc5",
+     "title": {
+      "en": "Pocket cash is lost on death or arrest",
+      "pt": "O dinheiro no bolso é perdido ao morrer ou ser preso",
+      "es": "El efectivo de bolsillo se pierde al morir o ser arrestado",
+      "tr": "Cepteki nakit ölünce veya tutuklanınca kaybedilir",
+      "ru": "Наличные в кармане теряются при смерти или аресте",
+      "id": "Uang tunai di saku hilang saat mati atau ditangkap"
+     },
+     "body": {
+      "en": "Cash in your pocket is lost when you die or get arrested.",
+      "pt": "O dinheiro no seu bolso é perdido quando você morre ou é preso.",
+      "es": "El efectivo en tu bolsillo se pierde cuando mueres o eres arrestado.",
+      "tr": "Cebinizdeki nakit, öldüğünüzde veya tutuklandığınızda kaybedilir.",
+      "ru": "Наличные в кармане теряются, когда вы умираете или вас арестовывают.",
+      "id": "Uang tunai di saku Anda hilang saat Anda mati atau ditangkap."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-bank-account-guide/",
+       "title": "How to Make a Bank Account in GTA 6"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-buckme-guide-how-the-family-savings-milestones-work-2990",
+       "title": "GTA 6 BuckMe Guide to Locked Savings, Checking Limits and Discounts | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-21T03:07:01Z"
     }
    ]
   }
