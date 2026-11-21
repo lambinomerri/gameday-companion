@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-21T18:07:02Z",
+ "updated": "2026-11-21T21:07:02Z",
  "sections": [
   {
    "id": "news",
@@ -1359,6 +1359,38 @@
     "id": "Senjata"
    },
    "items": [
+    {
+     "id": "weapons-8552d622bd",
+     "title": {
+      "en": "Free Smuggler Gorse 425 shotgun in the Permit Keys",
+      "pt": "Espingarda Gorse 425 grátis do Smuggler em Permit Keys",
+      "es": "Escopeta Gorse 425 gratis del Smuggler en Permit Keys",
+      "tr": "Permit Keys'te Smuggler'dan ücretsiz Gorse 425 pompalı tüfek",
+      "ru": "Бесплатный дробовик Gorse 425 от Smuggler в Permit Keys",
+      "id": "Shotgun Gorse 425 gratis dari Smuggler di Permit Keys"
+     },
+     "body": {
+      "en": "Available free from the start; go to the island in the north of the Permit Keys; find the small boat on the bank and take the shotgun there",
+      "pt": "Disponível grátis desde o início; vá à ilha no norte de Permit Keys; encontre o barco pequeno na margem e pegue a espingarda ali",
+      "es": "Disponible gratis desde el inicio; ve a la isla al norte de Permit Keys; encuentra el bote pequeño en la orilla y toma la escopeta allí",
+      "tr": "Baştan itibaren ücretsiz; Permit Keys'in kuzeyindeki adaya git; kıyıdaki küçük tekneyi bul ve tüfeği oradan al",
+      "ru": "Доступно бесплатно с начала игры; отправляйтесь на остров к северу от Permit Keys; найдите маленькую лодку на берегу и возьмите там дробовик",
+      "id": "Tersedia gratis dari awal; pergi ke pulau di utara Permit Keys; temukan perahu kecil di tepi pantai dan ambil shotgun di sana"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.gtaboom.com/10-best-free-early-game-weapons-in-gta-vi-e01f",
+       "title": "12 Free Early Weapons in GTA VI and Where to Find Them | GTA BOOM"
+      },
+      {
+       "url": "https://www.thegamer.com/gta-6-legendary-smugglers-shotgun-unlock-guide-location-how-to-find/",
+       "title": "How To Find The Legendary Smuggler's Shotgun In GTA 6"
+      }
+     ],
+     "added": "2026-11-21T21:07:02Z"
+    },
     {
      "id": "weapons-b59d281d3b",
      "title": {
