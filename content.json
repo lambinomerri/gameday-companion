@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-21T06:07:01Z",
+ "updated": "2026-11-21T09:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1407,6 +1407,38 @@
     "id": "Mobil"
    },
    "items": [
+    {
+     "id": "cars-9cdf8a81ff",
+     "title": {
+      "en": "Sell untracked cars to Moses",
+      "pt": "Venda carros sem rastreador para Moses",
+      "es": "Vende coches sin rastreador a Moses",
+      "tr": "Moses'a izlenmeyen arabaları sat",
+      "ru": "Продай машины без трекера Moses",
+      "id": "Jual mobil tanpa pelacak ke Moses"
+     },
+     "body": {
+      "en": "Start Chapter 2 and finish Girl's Trip; drive the car into Moses' garage; look at Moses, hold LT, press Circle / B. No tracker; not a neighbour's car.",
+      "pt": "Comece o Capítulo 2 e termine Girl's Trip; dirija o carro até a garagem de Moses; olhe para Moses, segure LT, pressione Circle / B. Sem rastreador; não é carro de vizinho.",
+      "es": "Empieza el Capítulo 2 y termina Girl's Trip; conduce el coche al garaje de Moses; mira a Moses, mantén LT, pulsa Circle / B. Sin localizador; no es el coche de un vecino.",
+      "tr": "2. Bölümü başlat ve Girl's Trip'i bitir; arabayı Moses'un garajına sür; Moses'a bak, LT'ye basılı tut, Circle / B'ye bas. Takip cihazı yok; komşunun arabası değil.",
+      "ru": "Начни Главу 2 и пройди Girl's Trip; загони машину в гараж Moses; посмотри на Moses, зажми LT, нажми Circle / B. Без трекера; не машина соседа.",
+      "id": "Mulai Bab 2 dan selesaikan Girl's Trip; kendarai mobil ke garasi Moses; lihat Moses, tahan LT, tekan Circle / B. Tanpa pelacak; bukan mobil tetangga."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/gta-6-sell-cars",
+       "title": "How to sell cars in GTA 6 | Eurogamer.net"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-moses-walkthrough-3093",
+       "title": "GTA 6 Moses Walkthrough and How to Register a Car for Free | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-21T09:07:01Z"
+    },
     {
      "id": "cars-628c3f8840",
      "title": {
