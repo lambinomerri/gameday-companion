@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T00:07:02Z",
+ "updated": "2026-11-22T03:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1681,6 +1681,70 @@
     "id": "Misi"
    },
    "items": [
+    {
+     "id": "missions-d853e728e2",
+     "title": {
+      "en": "Gear Up: buy a gun at Chuck's Tackle & Shot",
+      "pt": "Gear Up: compre uma arma na Chuck's Tackle & Shot",
+      "es": "Gear Up: compra un arma en Chuck's Tackle & Shot",
+      "tr": "Gear Up: Chuck's Tackle & Shot'tan silah satın al",
+      "ru": "Gear Up: купи оружие в Chuck's Tackle & Shot",
+      "id": "Gear Up: beli senjata di Chuck's Tackle & Shot"
+     },
+     "body": {
+      "en": "Pick Up Another Gun under Story leads to Chuck's Tackle & Shot in Key Lento; look for the fish sign over the Ammu-Nation banner; Kingfishers ambush outside",
+      "pt": "Pegue Outra Arma em História leva à Chuck's Tackle & Shot em Key Lento; procure a placa de peixe acima do letreiro da Ammu-Nation; Kingfishers emboscam do lado de fora",
+      "es": "Recoge Otra Arma en Historia lleva a Chuck's Tackle & Shot en Key Lento; busca el letrero del pez sobre la pancarta de Ammu-Nation; Kingfishers tienden una emboscada afuera",
+      "tr": "Hikayede Başka Silah Al, Key Lento'daki Chuck's Tackle & Shot'a yönlendirir; Ammu-Nation afişinin üstündeki balık tabelasını ara; dışarıda Kingfishers pusu kurar",
+      "ru": "Возьми другое оружие в разделе Сюжет — приведёт в Chuck's Tackle & Shot в Key Lento; ищи вывеску с рыбой над баннером Ammu-Nation; снаружи ждут Kingfishers в засаде",
+      "id": "Pick Up Another Gun di Cerita menuju Chuck's Tackle & Shot di Key Lento; cari tanda ikan di atas spanduk Ammu-Nation; Kingfishers menyergap di luar"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/gta-6-walkthrough",
+       "title": "GTA 6 walkthrough | Eurogamer.net"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-gear-up-mission-walkthrough-26a2",
+       "title": "How to Complete Gear Up in GTA 6 | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-22T03:07:01Z"
+    },
+    {
+     "id": "missions-dd57e82800",
+     "title": {
+      "en": "Discharge Time: go to room 203",
+      "pt": "Discharge Time: vá para o quarto 203",
+      "es": "Discharge Time: ve a la habitación 203",
+      "tr": "Discharge Time: 203 numaralı odaya git",
+      "ru": "Discharge Time: иди в палату 203",
+      "id": "Discharge Time: pergi ke ruang 203"
+     },
+     "body": {
+      "en": "Go through the Intensive Care Unit door on the left and head to room 203 to find Jason",
+      "pt": "Passe pela porta da Unidade de Terapia Intensiva à esquerda e vá até o quarto 203 para encontrar Jason",
+      "es": "Cruza la puerta de la Unidad de Cuidados Intensivos a la izquierda y ve a la habitación 203 para encontrar a Jason",
+      "tr": "Soldaki Yoğun Bakım Ünitesi kapısından geç ve Jason'ı bulmak için 203 numaralı odaya git",
+      "ru": "Пройди через дверь реанимации слева и иди в палату 203, чтобы найти Джейсона",
+      "id": "Lewati pintu Unit Perawatan Intensif di sebelah kiri dan menuju ruang 203 untuk menemukan Jason"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/gta-6-discharge-time-walkthrough",
+       "title": "GTA 6 Discharge Time walkthrough | Eurogamer.net"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-discharge-time-walkthrough-05d7",
+       "title": "GTA 6 Discharge Time Walkthrough | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-22T03:07:01Z"
+    },
     {
      "id": "missions-6df76f5591",
      "title": {
