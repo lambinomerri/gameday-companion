@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T06:07:01Z",
+ "updated": "2026-11-22T09:07:02Z",
  "sections": [
   {
    "id": "news",
@@ -1917,22 +1917,118 @@
      "pinned": true
     },
     {
-     "id": "tips-db1c20cbc5",
+     "id": "tips-afd35a2968",
      "title": {
-      "en": "Pocket cash is lost on death or arrest",
-      "pt": "O dinheiro no bolso é perdido ao morrer ou ser preso",
-      "es": "El efectivo de bolsillo se pierde al morir o ser arrestado",
-      "tr": "Cepteki nakit ölünce veya tutuklanınca kaybedilir",
-      "ru": "Наличные в кармане теряются при смерти или аресте",
-      "id": "Uang tunai di saku hilang saat mati atau ditangkap"
+      "en": "Open a bank account in Chapter 1",
+      "pt": "Abra uma conta bancária no Capítulo 1",
+      "es": "Abre una cuenta bancaria en el Capítulo 1",
+      "tr": "1. Bölümde banka hesabı aç",
+      "ru": "Откройте банковский счёт в Главе 1",
+      "id": "Buka rekening bank di Chapter 1"
      },
      "body": {
-      "en": "Cash in your pocket is lost when you die or get arrested.",
-      "pt": "O dinheiro no seu bolso é perdido quando você morre ou é preso.",
-      "es": "El efectivo en tu bolsillo se pierde cuando mueres o eres arrestado.",
-      "tr": "Cebinizdeki nakit, öldüğünüzde veya tutuklandığınızda kaybedilir.",
-      "ru": "Наличные в кармане теряются, когда вы умираете или вас арестовывают.",
-      "id": "Uang tunai di saku Anda hilang saat Anda mati atau ditangkap."
+      "en": "Play the Buck Me story mission in Chapter 1; enter the Fleeca Bank and speak with the manager to open an account",
+      "pt": "Jogue a missão da história Buck Me no Capítulo 1; entre no Fleeca Bank e fale com o gerente para abrir uma conta",
+      "es": "Completa la misión de historia Buck Me en el Capítulo 1; entra en el Fleeca Bank y habla con el gerente para abrir una cuenta",
+      "tr": "1. Bölümde Buck Me hikaye görevini oyna; Fleeca Bank'a gir ve hesap açmak için müdürle konuş",
+      "ru": "Пройдите сюжетную миссию Buck Me в Главе 1; зайдите в Fleeca Bank и поговорите с управляющим, чтобы открыть счёт",
+      "id": "Mainkan misi cerita Buck Me di Chapter 1; masuk ke Fleeca Bank dan bicara dengan manajernya untuk membuka rekening"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-bank-account-guide/",
+       "title": "How to Make a Bank Account in GTA 6"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-buckme-guide-how-the-family-savings-milestones-work-2990",
+       "title": "GTA 6 BuckMe Guide to Locked Savings, Checking Limits and Discounts | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-22T09:07:02Z"
+    },
+    {
+     "id": "tips-147643319c",
+     "title": {
+      "en": "Family Savings money is locked",
+      "pt": "Dinheiro em Family Savings fica bloqueado",
+      "es": "El dinero de Family Savings está bloqueado",
+      "tr": "Family Savings parası kilitli",
+      "ru": "Деньги в Family Savings заблокированы",
+      "id": "Uang di Family Savings terkunci"
+     },
+     "body": {
+      "en": "You can't take money back out of Savings; putting money in Family Savings locks you out of spending that cash",
+      "pt": "Você não pode retirar dinheiro da Family Savings; depositar nela impede você de gastar esse valor",
+      "es": "No puedes retirar dinero de Family Savings; depositarlo ahí te impide gastar ese efectivo",
+      "tr": "Family Savings'ten para çekemezsin; oraya para yatırmak, o parayı harcamanı engeller",
+      "ru": "Снять деньги с Family Savings нельзя; положив их туда, вы не сможете тратить эту сумму",
+      "id": "Anda tidak bisa menarik uang dari Family Savings; menyimpan uang di sana membuat Anda tidak bisa membelanjakannya"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-bank-account-guide/",
+       "title": "How to Make a Bank Account in GTA 6"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-buckme-guide-how-the-family-savings-milestones-work-2990",
+       "title": "GTA 6 BuckMe Guide to Locked Savings, Checking Limits and Discounts | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-22T09:07:02Z"
+    },
+    {
+     "id": "tips-6077dbbdda",
+     "title": {
+      "en": "Checking account has a $15,000 cap",
+      "pt": "A conta corrente tem limite de $15,000",
+      "es": "La cuenta corriente tiene un límite de $15,000",
+      "tr": "Vadesiz hesabın limiti $15,000",
+      "ru": "Лимит текущего счёта — $15,000",
+      "id": "Rekening giro dibatasi $15,000"
+     },
+     "body": {
+      "en": "BuckMe checking has a $15,000 limit; at the cap, the game holds incoming payments until you spend or move some into savings",
+      "pt": "A conta corrente BuckMe tem limite de $15,000; ao atingi-lo, o jogo retém pagamentos recebidos até você gastar ou transferir parte para a poupança",
+      "es": "La cuenta corriente BuckMe tiene un límite de $15,000; al llegar al tope, el juego retiene los pagos entrantes hasta que gastes o pases parte a ahorros",
+      "tr": "BuckMe vadesiz hesabının limiti $15,000'dır; limite ulaşınca, sen harcayana ya da tasarrufa aktarana kadar gelen ödemeler oyun tarafından tutulur",
+      "ru": "Лимит текущего счёта BuckMe — $15,000; когда он достигнут, игра задерживает входящие платежи, пока вы не потратите деньги или не переведёте часть на сбережения",
+      "id": "Rekening giro BuckMe dibatasi $15,000; saat batas tercapai, pembayaran masuk ditahan game sampai Anda membelanjakan atau memindahkan sebagian ke tabungan"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-bank-account-guide/",
+       "title": "How to Make a Bank Account in GTA 6"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-buckme-guide-how-the-family-savings-milestones-work-2990",
+       "title": "GTA 6 BuckMe Guide to Locked Savings, Checking Limits and Discounts | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-22T09:07:02Z"
+    },
+    {
+     "id": "tips-db1c20cbc5",
+     "title": {
+      "en": "Deposit spare cash at an ATM",
+      "pt": "Deposite dinheiro extra em um caixa eletrônico",
+      "es": "Deposita el efectivo sobrante en un cajero",
+      "tr": "Fazla parayı ATM'de yatır",
+      "ru": "Положите лишние деньги на счёт в банкомате",
+      "id": "Setor uang lebih di ATM"
+     },
+     "body": {
+      "en": "With a BuckMe account, use the ATM Finder function to deposit cash; anything you are not about to spend is safer deposited or moved to savings",
+      "pt": "Com uma conta BuckMe, use a função ATM Finder para depositar dinheiro; o que você não for gastar logo é mais seguro depositado ou transferido para a poupança",
+      "es": "Con una cuenta BuckMe, usa la función ATM Finder para depositar efectivo; lo que no vayas a gastar es más seguro depositarlo o pasarlo a ahorros",
+      "tr": "BuckMe hesabınla ATM Finder özelliğini kullanarak para yatır; harcamayacağın parayı yatırmak veya tasarrufa aktarmak daha güvenli",
+      "ru": "С счётом BuckMe используйте функцию ATM Finder, чтобы внести наличные; деньги, которые не собираетесь тратить, лучше положить или перевести на сбережения",
+      "id": "Dengan rekening BuckMe, gunakan fungsi ATM Finder untuk menyetor uang; uang yang tidak akan segera dibelanjakan lebih aman disetor atau dipindah ke tabungan"
      },
      "platform": "all",
      "confidence": 2,
