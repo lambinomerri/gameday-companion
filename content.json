@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T18:07:01Z",
+ "updated": "2026-11-22T21:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1472,6 +1472,70 @@
     "id": "Mobil"
    },
    "items": [
+    {
+     "id": "cars-9cfc610925",
+     "title": {
+      "en": "Fire nitrous with L3",
+      "pt": "Ative o óxido nitroso com L3",
+      "es": "Activa el óxido nitroso con L3",
+      "tr": "Nitro'yu L3 ile ateşle",
+      "ru": "Активируйте закись азота на L3",
+      "id": "Tembakkan nitrous dengan L3"
+     },
+     "body": {
+      "en": "Needs a vehicle fitted with nitrous; hold L3 while accelerating or moving to fire the boost",
+      "pt": "Precisa de veículo com nitro; segure L3 ao acelerar ou se mover para ativar o impulso",
+      "es": "Necesitas un vehículo con óxido nitroso; mantén L3 al acelerar o moverte para activar el impulso",
+      "tr": "Nitro takılı bir araç gerekir; hızlanırken veya hareket ederken L3'ü basılı tut",
+      "ru": "Нужен автомобиль с закисью азота; удерживайте L3 при разгоне или движении, чтобы включить ускорение",
+      "id": "Butuh kendaraan yang dipasangi nitrous; tahan L3 saat akselerasi atau bergerak untuk mengaktifkan boost"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-how-get-use-nitrous-nos-vehicles/",
+       "title": "How to Use Nitrous in GTA 6"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-hidden-controls-guide-2f6c",
+       "title": "GTA 6 Vehicle Menu and Controller Shortcuts | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-22T21:07:01Z"
+    },
+    {
+     "id": "cars-1083689256",
+     "title": {
+      "en": "Open the vehicle menu while driving",
+      "pt": "Abra o menu do veículo ao dirigir",
+      "es": "Abre el menú del vehículo al conducir",
+      "tr": "Sürüş sırasında araç menüsünü aç",
+      "ru": "Откройте меню автомобиля во время езды",
+      "id": "Buka menu kendaraan saat berkendara"
+     },
+     "body": {
+      "en": "Hold left on the D-pad to open the radio menu; flick the right stick up to switch to vehicle options; open the trunk from there",
+      "pt": "Segure o D-pad para a esquerda para abrir o menu de rádio; empurre o analógico direito para cima para mudar para opções do veículo; abra o porta-malas a partir daí",
+      "es": "Mantén el D-pad a la izquierda para abrir el menú de radio; mueve el stick derecho hacia arriba para cambiar a opciones del vehículo; abre el maletero desde ahí",
+      "tr": "Radyo menüsünü açmak için D-pad'i sola basılı tut; araç seçeneklerine geçmek için sağ analog çubuğu yukarı çevir; bagajı oradan aç",
+      "ru": "Удерживайте D-pad влево, чтобы открыть меню радио; резко переведите правый стик вверх, чтобы перейти к настройкам автомобиля; оттуда откройте багажник",
+      "id": "Tahan D-pad kiri untuk membuka menu radio; geser stik kanan ke atas untuk beralih ke opsi kendaraan; buka bagasi dari sana"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gamerant.com/gta-6-vehicle-guide/",
+       "title": "GTA 6 Vehicle Guide: Cars, Aircraft & Driving Tips"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-hidden-controls-guide-2f6c",
+       "title": "GTA 6 Vehicle Menu and Controller Shortcuts | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-22T21:07:01Z"
+    },
     {
      "id": "cars-9cdf8a81ff",
      "title": {
