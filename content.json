@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T09:07:02Z",
+ "updated": "2026-11-22T12:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -939,20 +939,16 @@
       "id": "Amunisi tak terbatas"
      },
      "body": {
-      "en": "Unlock: win 25 silver medals or better at Shooting Ranges. Your ammo never runs out.",
-      "pt": "Desbloqueio: conquiste 25 medalhas de prata ou superior nos Shooting Ranges. Sua munição nunca acaba.",
-      "es": "Desbloqueo: gana 25 medallas de plata o superiores en los Shooting Ranges. Tu munición nunca se agota.",
-      "tr": "Kilit açma: Shooting Ranges'de 25 veya daha iyi gümüş madalya kazan. Mermilerin asla bitmez.",
-      "ru": "Открытие: получите 25 или больше серебряных медалей в Shooting Ranges. Патроны никогда не кончаются.",
-      "id": "Buka: raih 25 medali perak atau lebih baik di Shooting Ranges. Amunisimu tidak akan pernah habis."
+      "en": "Unlock by winning 25 silver medals or better at Shooting Ranges. Your ammo never runs out.",
+      "pt": "Desbloqueie ganhando 25 medalhas de prata ou superior nos Shooting Ranges. Sua munição nunca acaba.",
+      "es": "Desbloquea ganando 25 medallas de plata o superior en Shooting Ranges. Tu munición nunca se acaba.",
+      "tr": "25 gümüş veya daha yüksek madalya kazanarak açılır. Mermilerin hiç bitmez.",
+      "ru": "Открывается за 25 серебряных или более высоких медалей в Shooting Ranges. Патроны никогда не заканчиваются.",
+      "id": "Buka dengan memenangkan 25 medali perak atau lebih tinggi di Shooting Ranges. Amunisimu tidak akan pernah habis."
      },
      "platform": "all",
      "confidence": 3,
      "sources": [
-      {
-       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
-       "title": "All GTA 6 Cheats & How to Unlock Them"
-      },
       {
        "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
        "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
@@ -960,6 +956,10 @@
       {
        "url": "https://gtaboom.com/gta-6-cheats-9nd6",
        "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
+      },
+      {
+       "url": "https://www.rockpapershotgun.com/gta-6-cheats-list",
+       "title": "GTA 6 Cheats: All Cheat Codes And How To Unlock Them | Rock Paper Shotgun"
       }
      ],
      "added": "2026-11-20T18:31:58Z",
@@ -971,26 +971,26 @@
       "en": "Max ammo",
       "pt": "Munição máxima",
       "es": "Munición máxima",
-      "tr": "Maksimum mermi",
+      "tr": "Maksimum cephane",
       "id": "Amunisi maksimal"
      },
      "body": {
-      "en": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Disables Trophies/Achievements and saving for the session.",
-      "pt": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Desativa Troféus/Conquistas e o salvamento durante a sessão.",
-      "es": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Desactiva Trofeos/Logros y el guardado durante la sesión.",
-      "tr": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Oturum boyunca Kupaları/Başarımları ve kaydetmeyi devre dışı bırakır.",
-      "id": "D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left. Menonaktifkan Trofi/Pencapaian dan penyimpanan selama sesi."
+      "en": "Unlock by winning 25 bronze medals or better at Shooting Ranges. Fills up the ammo of all your weapons.",
+      "pt": "Desbloqueie ganhando 25 medalhas de bronze ou melhor nos Estandes de Tiro. Enche a munição de todas as suas armas.",
+      "es": "Desbloquéalo ganando 25 medallas de bronce o superior en los Campos de Tiro. Llena la munición de todas tus armas.",
+      "tr": "Atıcılık Poligonlarında 25 bronz veya daha iyi madalya kazanarak açın. Tüm silahlarınızın cephanesini doldurur.",
+      "id": "Buka dengan memenangkan 25 medali perunggu atau lebih tinggi di Shooting Range. Mengisi penuh amunisi semua senjatamu."
      },
      "platform": "all",
      "confidence": 3,
      "sources": [
       {
-       "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
-       "title": "All GTA 6 Cheats & How to Unlock Them"
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
       },
       {
-       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
-       "title": "All GTA 6 cheats and how to unlock them for PS5 and Xbox | GamesRadar+"
+       "url": "https://gtaboom.com/gta-6-cheats-9nd6",
+       "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
       },
       {
        "url": "https://www.rockpapershotgun.com/gta-6-cheats-list",
