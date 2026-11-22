@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T03:07:01Z",
+ "updated": "2026-11-22T06:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1539,35 +1539,31 @@
     {
      "id": "cars-6773e7594f",
      "title": {
-      "en": "Register stolen cars to keep them",
-      "pt": "Registre carros roubados para ficar com eles",
-      "es": "Registra coches robados para quedártelos",
-      "tr": "Çalınan arabaları kaydedip sahip ol",
-      "ru": "Регистрируйте угнанные машины, чтобы оставить их себе",
-      "id": "Daftarkan mobil curian untuk memilikinya"
+      "en": "Registration fee rises with car price",
+      "pt": "Taxa de registro sobe com o preço do carro",
+      "es": "La tarifa de registro sube con el precio del coche",
+      "tr": "Kayıt ücreti araç fiyatıyla artar",
+      "ru": "Стоимость регистрации растёт с ценой машины",
+      "id": "Biaya registrasi naik seiring harga mobil"
      },
      "body": {
-      "en": "Register stolen cars at a Pay 'n' Spray to take ownership; not possible before Chapter 2; Moses' garage at Port Gellhorn also registers them",
-      "pt": "Registre carros roubados em um Pay 'n' Spray para tomar posse; não é possível antes do Capítulo 2; a garagem de Moses em Port Gellhorn também registra",
-      "es": "Registra coches robados en un Pay 'n' Spray para tomar posesión; no es posible antes del Capítulo 2; el garaje de Moses en Port Gellhorn también los registra",
-      "tr": "Çalınan arabaları bir Pay 'n' Spray'de kaydederek sahiplen; 2. Bölüm'den önce mümkün değil; Port Gellhorn'daki Moses'in garajı da kayıt yapar",
-      "ru": "Регистрируйте угнанные машины в Pay 'n' Spray, чтобы получить владение; нельзя до Главы 2; гараж Moses в Port Gellhorn тоже регистрирует",
-      "id": "Daftarkan mobil curian di Pay 'n' Spray untuk mengambil kepemilikan; tidak bisa sebelum Bab 2; garasi Moses di Port Gellhorn juga bisa mendaftarkan"
+      "en": "Moses registers stolen vehicles for a fee; the pricier the car, the more expensive it is to register.",
+      "pt": "Moses registra veículos roubados mediante taxa; quanto mais caro o carro, mais caro é registrá-lo.",
+      "es": "Moses registra vehículos robados por una tarifa; cuanto más caro sea el coche, más cara será su inscripción.",
+      "tr": "Moses çalınmış araçları ücret karşılığında kaydeder; araba ne kadar pahalıysa kaydettirmek o kadar pahalıya mal olur.",
+      "ru": "Мозес регистрирует угнанные автомобили за плату; чем дороже машина, тем дороже её регистрация.",
+      "id": "Moses mendaftarkan kendaraan curian dengan biaya; semakin mahal mobilnya, semakin mahal biaya pendaftarannya."
      },
      "platform": "all",
-     "confidence": 3,
+     "confidence": 2,
      "sources": [
       {
        "url": "https://gamerant.com/gta-6-how-to-keep-stolen-vehicles/",
        "title": "How to Keep Stolen Cars in GTA 6"
       },
       {
-       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/",
-       "title": "How to get Paul Walker's Fast and Furious car in GTA 6 | GamesRadar+"
-      },
-      {
-       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
-       "title": "GTA 6: How stealing cars has changed | PC Gamer"
+       "url": "https://www.thegamer.com/gta-6-stolen-vehicle-register-own-how-to-complete-guide/",
+       "title": "How To Register Vehicles And Get A Slim Jim In GTA 6"
       }
      ],
      "added": "2026-11-20T12:07:02Z"
