@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-23T15:07:01Z",
+ "updated": "2026-11-23T15:47:19Z",
  "sections": [
   {
    "id": "news",
@@ -686,14 +686,16 @@
       "es": "Chaleco antibalas",
       "tr": "Zırh",
       "ru": "Бронежилет",
-      "id": "Rompi antipeluru"
+      "id": "Rompi antipeluru",
+      "pt": "Colete à prova de balas"
      },
      "body": {
       "en": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Disables Trophies/Achievements and saving for the session.",
       "es": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Desactiva Trofeos/Logros y el guardado durante la sesión.",
       "tr": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Oturum boyunca Kupaları/Başarımları ve kaydetmeyi devre dışı bırakır.",
       "ru": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Отключает трофеи/достижения и сохранение на время сессии.",
-      "id": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Menonaktifkan Trofi/Pencapaian dan penyimpanan selama sesi."
+      "id": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Menonaktifkan Trofi/Pencapaian dan penyimpanan selama sesi.",
+      "pt": "D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Desativa Troféus/Conquistas e o salvamento durante a sessão."
      },
      "platform": "all",
      "confidence": 3,
@@ -972,14 +974,16 @@
       "pt": "Munição máxima",
       "es": "Munición máxima",
       "tr": "Maksimum cephane",
-      "id": "Amunisi maksimal"
+      "id": "Amunisi maksimal",
+      "ru": "Максимум патронов"
      },
      "body": {
       "en": "Unlock by winning 25 bronze medals or better at Shooting Ranges. Fills up the ammo of all your weapons.",
       "pt": "Desbloqueie ganhando 25 medalhas de bronze ou melhor nos Estandes de Tiro. Enche a munição de todas as suas armas.",
       "es": "Desbloquéalo ganando 25 medallas de bronce o superior en los Campos de Tiro. Llena la munición de todas tus armas.",
       "tr": "Atıcılık Poligonlarında 25 bronz veya daha iyi madalya kazanarak açın. Tüm silahlarınızın cephanesini doldurur.",
-      "id": "Buka dengan memenangkan 25 medali perunggu atau lebih tinggi di Shooting Range. Mengisi penuh amunisi semua senjatamu."
+      "id": "Buka dengan memenangkan 25 medali perunggu atau lebih tinggi di Shooting Range. Mengisi penuh amunisi semua senjatamu.",
+      "ru": "Открывается за 25 бронзовых медалей и выше в Shooting Ranges. Пополняет боеприпасы всех ваших видов оружия."
      },
      "platform": "all",
      "confidence": 3,
@@ -1275,7 +1279,7 @@
       "pt": "Aumentar nível de calor",
       "es": "Subir nivel de calor",
       "tr": "Isı seviyesini artır",
-      "ru": "Повысить уровень розыска",
+      "ru": "Повысить уровень «жары»",
       "id": "Naikkan tingkat heat"
      },
      "body": {
@@ -1505,6 +1509,70 @@
     "id": "Mobil"
    },
    "items": [
+    {
+     "id": "cars-8a702296e2",
+     "title": {
+      "en": "Clone a car key with the WAiNK app",
+      "pt": "Clone uma chave de carro com o app WAiNK",
+      "es": "Clona una llave de coche con la app WAiNK",
+      "tr": "WAiNK uygulamasıyla araba anahtarını kopyala",
+      "ru": "Клонируйте ключ от машины через приложение WAiNK",
+      "id": "Duplikat kunci mobil dengan aplikasi WAiNK"
+     },
+     "body": {
+      "en": "Hold Up on the D-pad to open the WAiNK app; select the \"clone key\" option; rotate the right stick until you find the sweet spot",
+      "pt": "Segure Up no D-pad para abrir o app WAiNK; selecione a opção \"clone key\"; gire o analógico direito até achar o ponto ideal",
+      "es": "Mantén Up en la cruceta para abrir la app WAiNK; selecciona la opción \"clone key\"; gira el stick derecho hasta encontrar el punto ideal",
+      "tr": "WAiNK uygulamasını açmak için D-pad'de Up tuşunu basılı tut; \"clone key\" seçeneğini seç; tatlı noktayı bulana kadar sağ analog çubuğu çevir",
+      "ru": "Удерживайте Up на крестовине, чтобы открыть приложение WAiNK; выберите пункт \"clone key\"; вращайте правый стик, пока не найдёте нужную точку",
+      "id": "Tahan Up di D-pad untuk membuka aplikasi WAiNK; pilih opsi \"clone key\"; putar stik kanan sampai menemukan titik yang pas"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/",
+       "title": "GTA 6 key cloner: How to clone keys and steal nicer cars | GamesRadar+"
+      },
+      {
+       "url": "https://www.polygon.com/gta-6-key-cloner-how-to-get-steal-keyless-cars-randy/",
+       "title": "How to get a key cloner in GTA 6"
+      }
+     ],
+     "added": "2026-11-23T15:47:19Z"
+    },
+    {
+     "id": "cars-220456e4fe",
+     "title": {
+      "en": "Repair your cars with the Scooter Bros app",
+      "pt": "Repare seus carros com o app Scooter Bros",
+      "es": "Repara tus coches con la app Scooter Bros",
+      "tr": "Arabalarını Scooter Bros uygulamasıyla tamir et",
+      "ru": "Ремонт машин через приложение Scooter Bros",
+      "id": "Perbaiki mobilmu dengan aplikasi Scooter Bros"
+     },
+     "body": {
+      "en": "Use the Scooter Bros app to repair your cars; it costs money",
+      "pt": "Use o app Scooter Bros para reparar seus carros; custa dinheiro",
+      "es": "Usa la app Scooter Bros para reparar tus coches; cuesta dinero",
+      "tr": "Arabalarını tamir etmek için Scooter Bros uygulamasını kullan; ücretlidir",
+      "ru": "Используйте приложение Scooter Bros для ремонта машин; это стоит денег",
+      "id": "Gunakan aplikasi Scooter Bros untuk memperbaiki mobilmu; ini berbayar"
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://www.eurogamer.net/how-to-summon-vehicles-gta-6",
+       "title": "How to summon vehicles in GTA 6 | Eurogamer.net"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-hidden-controls-guide-2f6c",
+       "title": "GTA 6 Vehicle Menu and Controller Shortcuts | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-23T15:47:19Z"
+    },
     {
      "id": "cars-9cfc610925",
      "title": {
