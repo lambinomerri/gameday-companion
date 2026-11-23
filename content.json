@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T21:07:01Z",
+ "updated": "2026-11-23T00:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1234,6 +1234,39 @@
      ],
      "added": "2026-11-20T18:31:58Z",
      "input": "DOWN, RIGHT, UP, DOWN, RIGHT, UP, RIGHT"
+    },
+    {
+     "id": "cheat-162c97bae5",
+     "title": {
+      "en": "Dark Mirror",
+      "pt": "Espelho Escuro",
+      "es": "Espejo Oscuro",
+      "tr": "Karanlık Ayna",
+      "ru": "Тёмное зеркало",
+      "id": "Dark Mirror"
+     },
+     "body": {
+      "en": "Unlock: make $500,000 selling vehicles. Turns the world black and flips it upside down.",
+      "pt": "Desbloqueio: venda veículos e ganhe $500,000. Deixa o mundo preto e o vira de cabeça para baixo.",
+      "es": "Desbloqueo: gana $500,000 vendiendo vehículos. Vuelve el mundo negro y lo pone boca abajo.",
+      "tr": "Açma: araç satarak $500,000 kazan. Dünyayı siyaha boyar ve ters çevirir.",
+      "ru": "Разблокировка: заработать $500,000 продажей автомобилей. Мир становится чёрным и переворачивается.",
+      "id": "Buka: hasilkan $500,000 dengan menjual kendaraan. Membuat dunia menjadi hitam dan terbalik."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
+      },
+      {
+       "url": "https://www.rockpapershotgun.com/gta-6-cheats-list",
+       "title": "How to unlock all Cheat Codes in GTA 6 | Rock Paper Shotgun"
+      }
+     ],
+     "added": "2026-11-23T00:07:01Z",
+     "input": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, RIGHT, LEFT"
     },
     {
      "id": "cheat-ea7e27e976",
