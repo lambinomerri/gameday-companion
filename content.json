@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-23T17:09:36Z",
+ "updated": "2026-11-24T00:07:01Z",
  "sections": [
   {
    "id": "news",
@@ -1273,6 +1273,72 @@
      "input": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, RIGHT, LEFT"
     },
     {
+     "id": "cheat-972c963536",
+     "title": {
+      "en": "Move time forward",
+      "pt": "Avançar o tempo",
+      "es": "Adelantar el tiempo",
+      "tr": "Zamanı ileri al",
+      "ru": "Перемотать время вперёд",
+      "id": "Majukan waktu"
+     },
+     "body": {
+      "en": "Unlock: find 10 collectible Watches.",
+      "pt": "Desbloqueio: encontre 10 Relógios colecionáveis.",
+      "es": "Desbloqueo: encuentra 10 Relojes coleccionables.",
+      "tr": "Açılış: 10 koleksiyon Saatini bul.",
+      "ru": "Открытие: найдите 10 коллекционных Часов.",
+      "id": "Buka: temukan 10 Jam koleksi."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-cheats-9nd6",
+       "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-24T00:07:01Z",
+     "input": "DOWN, RIGHT, UP, DOWN, RIGHT, UP, UP"
+    },
+    {
+     "id": "cheat-12f59fbd23",
+     "title": {
+      "en": "Pinhole camera filter",
+      "pt": "Filtro de câmera pinhole",
+      "es": "Filtro de cámara estenopeica",
+      "tr": "Iğne deliği kamera filtresi",
+      "ru": "Фильтр камеры-обскуры",
+      "id": "Filter kamera pinhole"
+     },
+     "body": {
+      "en": "Unlock: clear 25 gang operations with your partner.",
+      "pt": "Desbloqueio: conclua 25 operações de gangue com seu parceiro.",
+      "es": "Desbloqueo: completa 25 operaciones de banda con tu compañero.",
+      "tr": "Açılış: partnerinle birlikte 25 çete operasyonunu tamamla.",
+      "ru": "Открытие: выполните 25 операций банды с напарником.",
+      "id": "Buka: selesaikan 25 operasi geng bersama partnermu."
+     },
+     "platform": "all",
+     "confidence": 2,
+     "sources": [
+      {
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-cheats-9nd6",
+       "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
+      }
+     ],
+     "added": "2026-11-24T00:07:01Z",
+     "input": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, UP, DOWN"
+    },
+    {
      "id": "cheat-ea7e27e976",
      "title": {
       "en": "Raise heat level",
@@ -1304,6 +1370,43 @@
      ],
      "added": "2026-11-19T15:21:28Z",
      "input": "LEFT, DOWN, RIGHT, DOWN, UP, DOWN, UP"
+    },
+    {
+     "id": "cheat-3a76ce2f39",
+     "title": {
+      "en": "Videotape filter",
+      "pt": "Filtro de videocassete",
+      "es": "Filtro de videocinta",
+      "tr": "Video kaseti filtresi",
+      "ru": "Фильтр видеокассеты",
+      "id": "Filter videotape"
+     },
+     "body": {
+      "en": "Unlock: complete 50 activities with your partner. Gives a VHS-style picture.",
+      "pt": "Desbloqueio: complete 50 atividades com seu parceiro. Dá uma imagem estilo VHS.",
+      "es": "Desbloqueo: completa 50 actividades con tu compañero. Da una imagen estilo VHS.",
+      "tr": "Açılış: partnerinle 50 etkinlik tamamla. VHS tarzı görüntü verir.",
+      "ru": "Открытие: выполните 50 занятий с напарником. Даёт изображение в стиле VHS.",
+      "id": "Buka: selesaikan 50 aktivitas bersama partnermu. Memberi tampilan gaya VHS."
+     },
+     "platform": "all",
+     "confidence": 3,
+     "sources": [
+      {
+       "url": "https://gtabase.com/gta-6/gta-6-cheats-ps5-cheat-codes",
+       "title": "GTA 6 Cheats PS5: Cheat Codes Guide for PlayStation 5"
+      },
+      {
+       "url": "https://www.gtaboom.com/gta-6-cheats-9nd6",
+       "title": "GTA 6 Cheats & Codes for PS5 and Xbox | GTA BOOM"
+      },
+      {
+       "url": "https://www.gtaboss.gg/gta-cheat-codes/gta-6",
+       "title": "GTA 6 Cheat Codes for PS5 and Xbox Series X|S - GTA Boss"
+      }
+     ],
+     "added": "2026-11-24T00:07:01Z",
+     "input": "DOWN, DOWN, UP, RIGHT, RIGHT, UP, LEFT, LEFT, RIGHT, DOWN"
     },
     {
      "id": "cheat-63fddf4c38",
